@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440" role="img" aria-label="GestioneFarmacia - panoramica illustrativa dei moduli Java Swing e MySQL">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#101927"/><stop offset="1" stop-color="#172c3c"/></linearGradient><linearGradient id="g"><stop stop-color="#3de5bd"/><stop offset="1" stop-color="#6cc7ff"/></linearGradient></defs>
+<rect width="1100" height="440" rx="24" fill="url(#b)"/>
+<rect x="28" y="28" width="1044" height="384" rx="20" fill="#172534" stroke="#355466"/>
+<circle cx="60" cy="55" r="6" fill="#ef7a81"/><circle cx="80" cy="55" r="6" fill="#f7c56c"/><circle cx="100" cy="55" r="6" fill="#54dfb6"/>
+<text x="56" y="112" fill="#f1f8ff" font-family="Arial,sans-serif" font-weight="700" font-size="36">GestioneFarmacia</text>
+<text x="56" y="143" fill="#96b1c1" font-family="Arial,sans-serif" font-size="17">Progetto universitario · Applicazione desktop Java Swing + MySQL</text>
+<rect x="56" y="171" width="988" height="2" fill="#2e4657"/>
+<g font-family="Arial,sans-serif" font-size="18" font-weight="600">
+<rect x="56" y="199" width="300" height="72" rx="13" fill="#203849" stroke="#3d6374"/><text x="80" y="241" fill="#e9f6ff">Farmaci e inventario</text>
+<rect x="400" y="199" width="300" height="72" rx="13" fill="#203849" stroke="#3d6374"/><text x="424" y="241" fill="#e9f6ff">Clienti e pazienti</text>
+<rect x="744" y="199" width="300" height="72" rx="13" fill="#203849" stroke="#3d6374"/><text x="768" y="241" fill="#e9f6ff">Medici e ricette</text>
+<rect x="56" y="287" width="300" height="72" rx="13" fill="#203849" stroke="#3d6374"/><text x="80" y="329" fill="#e9f6ff">Operatori e ASL</text>
+<rect x="400" y="287" width="300" height="72" rx="13" fill="#203849" stroke="#3d6374"/><text x="424" y="329" fill="#e9f6ff">Vendite e cassa</text>
+<rect x="744" y="287" width="300" height="72" rx="13" fill="#203849" stroke="#3d6374"/><text x="768" y="329" fill="#e9f6ff">Report gestionali</text>
+</g><text x="56" y="389" fill="#69e2c1" font-size="14" font-family="Arial,sans-serif">PANORAMICA FUNZIONALE · Non è uno screenshot dell'applicazione</text>
+</svg>
