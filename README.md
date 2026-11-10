@@ -60,45 +60,84 @@ Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle
 
 > Le tecnologie riportate rappresentano esperienza progettuale e formazione in corso, non certificazioni di livello senior.
 
-## ✦ Progetti in evidenza
+## ✦ 🚀 Progetti personali
+
+Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni sono ancora in fase di sviluppo.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏋️ FORMA AI</h3>
       <p><strong>AI-Powered Fitness Experience</strong></p>
-      <p>Una piattaforma fitness <em>local-first</em> con anteprima interattiva di workout, progressi, alimentazione e coach digitale. È in sviluppo un <strong>Exercise Atlas</strong> con schede tecniche e concept anatomici 3D.</p>
+      <p>Piattaforma fitness <em>local-first</em> con anteprima interattiva di allenamenti, progressi, alimentazione e coach digitale. In sviluppo un Exercise Atlas con schede tecniche e concept anatomici 3D.</p>
       <p><code>JavaScript</code> <code>Node.js</code> <code>PWA</code> <code>Testing</code></p>
       <p><a href="https://github.com/GiovanniDelGaudio1994/forma-ai">Repository demo</a> · <a href="https://giovannidelgaudio1994.github.io/forma-ai/">Prova la demo live</a></p>
-      <p><sub>⚠️ La demo pubblica usa dati fittizi; Coach AI e analisi video sono anteprime. Il codice completo resta privato.</sub></p>
+      <p><sub>⚠️ Demo con dati fittizi; le funzionalità AI avanzate sono anteprime. Il codice completo resta privato.</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>🚘 DriveGlass</h3>
       <p><strong>Digital Garage & Vehicle Companion</strong></p>
-      <p>Applicazione in sviluppo per organizzare veicoli, manutenzioni, scadenze e documenti. Esploro anche una componente cloud con API e sincronizzazione.</p>
+      <p>Applicazione in sviluppo per veicoli, manutenzioni, scadenze e documenti, con sperimentazione di API e sincronizzazione cloud.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>TypeScript</code></p>
       <p><sub>🚧 Work in progress — codice non ancora pubblicato</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍷 e-Wine</h3>
-      <p><strong>University Web Application</strong></p>
-      <p>Progetto universitario di sviluppo web con gestione dati e interfaccia realizzata usando Java JSP/Servlet, Bootstrap 4 e MySQL.</p>
-      <p><code>Java</code> <code>JSP/Servlet</code> <code>MySQL</code> <code>Bootstrap</code></p>
-      <p><sub>📚 Revisione del codice e della documentazione prima della pubblicazione</sub></p>
+      <h3>🏢 Fit Zone</h3>
+      <p><strong>Progetto personale · Gestionale palestra</strong></p>
+      <p>Progetto personale per la gestione di una palestra, sviluppato con PHP e MongoDB.</p>
+      <p><code>PHP</code> <code>MongoDB</code></p>
+      <p><sub>🔧 In revisione per una presentazione pubblica del progetto</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ Cilento Platform</h3>
       <p><strong>Territory & Tourism Platform</strong></p>
-      <p>Prototipo di piattaforma digitale per il Cilento: informazioni territoriali, strutture ricettive, camping e simulazioni di prenotazione.</p>
+      <p>Prototipo digitale per il Cilento: informazioni territoriali, strutture ricettive, camping e simulazioni di prenotazione.</p>
       <p><code>Web Development</code> <code>Backend</code> <code>Database</code></p>
       <p><sub>🚧 Work in progress — funzionalità non ancora complete</sub></p>
     </td>
   </tr>
 </table>
 
-**Altri progetti:** **Fit Zone** (gestione palestra), **Gestionale B&B** e attività di progettazione e documentazione per il corso universitario di Ingegneria del Software. Saranno pubblicati quando pronti per una revisione tecnica.
+**Altro progetto personale:** **Gestionale B&B** — da revisionare e documentare per il portfolio.
+
+## ✦ 🎓 Progetti universitari
+
+Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a requisiti, progettazione, database e documentazione tecnica.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 GestioneFarmacia</h3>
+      <p><strong>Basi di Dati · A.A. 2024/2025</strong></p>
+      <p>Progettazione E-R, schema relazionale, normalizzazione e applicazione desktop per la gestione farmaceutica, con interfaccia grafica e interrogazioni al database.</p>
+      <p><code>Java</code> <code>Swing</code> <code>MySQL</code> <code>JDBC</code> <code>DAO</code></p>
+      <p><sub>🔒 Codice privato · Descrizione pubblica disponibile più sotto</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍷 e-Wine</h3>
+      <p><strong>Tecnologie Software per il Web · Ingegneria del Software</strong></p>
+      <p>Progetto universitario di sviluppo web e attività di progettazione software, con interfaccia realizzata in JSP/Servlet, Bootstrap 4 e MySQL.</p>
+      <p><code>Java</code> <code>JSP/Servlet</code> <code>MySQL</code> <code>Bootstrap 4</code></p>
+      <p><sub>📚 Codice e documentazione in revisione prima della pubblicazione</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 RememberMe</h3>
+      <p><strong>Interazione Uomo-Macchina (IUM)</strong></p>
+      <p>Progetto universitario da presentare con la relativa documentazione e il materiale applicativo.</p>
+      <p><sub>📄 Analisi tecnica e screenshot da aggiungere dopo la revisione dei materiali</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📘 Formazione universitaria</h3>
+      <p><strong>Analisi · Progettazione · Sviluppo · Documentazione</strong></p>
+      <p>I progetti accademici mostrano il percorso dalla raccolta dei requisiti alle scelte progettuali e all'implementazione.</p>
+      <p><sub>🎓 Portfolio di uno studente di Informatica</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## ✦ Progetto universitario: GestioneFarmacia
 
