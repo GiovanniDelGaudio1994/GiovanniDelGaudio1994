@@ -146,15 +146,6 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
   </tr>
 </table>
 
-## ✦ 🧪 Esempi tecnici pubblici
-
-Due piccoli esempi **indipendenti dai progetti proprietari**, preparati come materiale dimostrativo e da esaminare, eseguire e personalizzare prima di presentarli come lavoro autonomo. I sorgenti di FORMA AI, DriveGlass e GestioneFarmacia **non sono inclusi**.
-
-| Esempio | Cosa mostra | Codice e test |
-|:--|:--|:--|
-| **Java Inventory** | Java, record, collezioni, validazione e test | [Visualizza il codice](code-samples/java-inventory/README.md) |
-| **Node.js Task API** | HTTP, JSON, gestione errori e test di integrazione | [Visualizza il codice](code-samples/node-api/README.md) |
-
 ## ✦ Come lavoro
 
 <div align="center">
