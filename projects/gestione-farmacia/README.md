@@ -6,6 +6,12 @@ GestioneFarmacia è un gestionale farmaceutico realizzato per il corso di **Basi
 
 **Tecnologie:** Java, Swing, MySQL, JDBC, DAO.
 
+## Prova la demo interattiva
+
+[**Apri GestioneFarmacia — simulazione navigabile**](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/)
+
+La demo è stata ricostruita dalle operazioni descritte nella documentazione: include ricerca di farmaci OTC/ETICI, pazienti, operatori, ricette e report; utilizza soltanto dati sintetici e non esegue il software Java Swing originale né accede a MySQL.
+
 ## Funzionalità documentate
 - Accesso e interfaccia principale del gestionale
 - Consultazione di farmaci OTC e farmaci soggetti a ricetta
