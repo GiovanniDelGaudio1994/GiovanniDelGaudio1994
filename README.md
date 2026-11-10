@@ -73,6 +73,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
       <p><code>JavaScript</code> <code>Node.js</code> <code>PWA</code> <code>Testing</code></p>
       <p><a href="https://github.com/GiovanniDelGaudio1994/forma-ai">Repository demo</a> · <a href="https://giovannidelgaudio1994.github.io/forma-ai/">Prova la demo live</a></p>
       <p><sub>⚠️ Demo con dati fittizi; le funzionalità AI avanzate sono anteprime. Il codice completo resta privato.</sub></p>
+    <p><a href="https://giovannidelgaudio1994.github.io/forma-ai/">▶ Visita la demo interattiva</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/driveglass/README.md">🚘 DriveGlass</a></h3>
@@ -80,6 +81,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
       <p>Applicazione in sviluppo per veicoli, manutenzioni, scadenze e documenti, con sperimentazione di API e sincronizzazione cloud.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>TypeScript</code></p>
       <p><sub>🚧 Work in progress — codice non ancora pubblicato</sub></p>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/driveglass/README.md">📂 Apri la scheda del progetto</a></p>
     </td>
   </tr>
   <tr>
@@ -89,6 +91,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
       <p>Progetto personale per la gestione di una palestra, sviluppato con PHP e MongoDB.</p>
       <p><code>PHP</code> <code>MongoDB</code></p>
       <p><sub>🔧 In revisione per una presentazione pubblica del progetto</sub></p>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/fit-zone/README.md">📂 Apri la scheda del progetto</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/cilento-platform/README.md">🗺️ Cilento Platform</a></h3>
@@ -96,6 +99,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
       <p>Prototipo digitale per il Cilento: informazioni territoriali, strutture ricettive, camping e simulazioni di prenotazione.</p>
       <p><code>Web Development</code> <code>Backend</code> <code>Database</code></p>
       <p><sub>🚧 Work in progress — funzionalità non ancora complete</sub></p>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/cilento-platform/README.md">📂 Apri la scheda del progetto</a></p>
     </td>
   </tr>
 </table>
@@ -114,6 +118,7 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
       <p>Progettazione E-R, schema relazionale, normalizzazione e applicazione desktop per la gestione farmaceutica, con interfaccia grafica e interrogazioni al database.</p>
       <p><code>Java</code> <code>Swing</code> <code>MySQL</code> <code>JDBC</code> <code>DAO</code></p>
       <p><sub>🔒 Codice privato · <a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">Visualizza la scheda del progetto</a></sub></p>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">📂 Apri la scheda del progetto</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/e-wine/README.md">🍷 e-Wine</a></h3>
@@ -121,6 +126,7 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
       <p>Progetto universitario di sviluppo web e attività di progettazione software, con interfaccia realizzata in JSP/Servlet, Bootstrap 4 e MySQL.</p>
       <p><code>Java</code> <code>JSP/Servlet</code> <code>MySQL</code> <code>Bootstrap 4</code></p>
       <p><sub>📚 Codice e documentazione in revisione prima della pubblicazione</sub></p>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/e-wine/README.md">📂 Apri la scheda del progetto</a></p>
     </td>
   </tr>
   <tr>
@@ -129,9 +135,10 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
       <p><strong>Interazione Uomo-Macchina (IUM)</strong></p>
       <p>Progetto universitario da presentare con la relativa documentazione e il materiale applicativo.</p>
       <p><sub>📄 Scheda preliminare disponibile · Documentazione da aggiungere</sub></p>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md">📂 Apri la scheda del progetto</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📘 Formazione universitaria</h3>
+      <h3>📘 Competenze accademiche</h3>
       <p><strong>Analisi · Progettazione · Sviluppo · Documentazione</strong></p>
       <p>I progetti accademici mostrano il percorso dalla raccolta dei requisiti alle scelte progettuali e all'implementazione.</p>
       <p><sub>🎓 Portfolio di uno studente di Informatica</sub></p>
