@@ -67,7 +67,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏋️ FORMA AI</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/forma-ai">🏋️ FORMA AI</a></h3>
       <p><strong>AI-Powered Fitness Experience</strong></p>
       <p>Piattaforma fitness <em>local-first</em> con anteprima interattiva di allenamenti, progressi, alimentazione e coach digitale. In sviluppo un Exercise Atlas con schede tecniche e concept anatomici 3D.</p>
       <p><code>JavaScript</code> <code>Node.js</code> <code>PWA</code> <code>Testing</code></p>
@@ -75,7 +75,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
       <p><sub>⚠️ Demo con dati fittizi; le funzionalità AI avanzate sono anteprime. Il codice completo resta privato.</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚘 DriveGlass</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/driveglass/README.md">🚘 DriveGlass</a></h3>
       <p><strong>Digital Garage & Vehicle Companion</strong></p>
       <p>Applicazione in sviluppo per veicoli, manutenzioni, scadenze e documenti, con sperimentazione di API e sincronizzazione cloud.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>TypeScript</code></p>
@@ -84,14 +84,14 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 Fit Zone</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/fit-zone/README.md">🏢 Fit Zone</a></h3>
       <p><strong>Progetto personale · Gestionale palestra</strong></p>
       <p>Progetto personale per la gestione di una palestra, sviluppato con PHP e MongoDB.</p>
       <p><code>PHP</code> <code>MongoDB</code></p>
       <p><sub>🔧 In revisione per una presentazione pubblica del progetto</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ Cilento Platform</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/cilento-platform/README.md">🗺️ Cilento Platform</a></h3>
       <p><strong>Territory & Tourism Platform</strong></p>
       <p>Prototipo digitale per il Cilento: informazioni territoriali, strutture ricettive, camping e simulazioni di prenotazione.</p>
       <p><code>Web Development</code> <code>Backend</code> <code>Database</code></p>
@@ -100,7 +100,7 @@ Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni s
   </tr>
 </table>
 
-**Altro progetto personale:** **Gestionale B&B** — da revisionare e documentare per il portfolio.
+**Altro progetto personale:** [**Gestionale B&B**](https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestionale-bnb/README.md) — da revisionare e documentare per il portfolio.
 
 ## ✦ 🎓 Progetti universitari
 
@@ -109,14 +109,14 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💊 GestioneFarmacia</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">💊 GestioneFarmacia</a></h3>
       <p><strong>Basi di Dati · A.A. 2024/2025</strong></p>
       <p>Progettazione E-R, schema relazionale, normalizzazione e applicazione desktop per la gestione farmaceutica, con interfaccia grafica e interrogazioni al database.</p>
       <p><code>Java</code> <code>Swing</code> <code>MySQL</code> <code>JDBC</code> <code>DAO</code></p>
-      <p><sub>🔒 Codice privato · Descrizione pubblica disponibile più sotto</sub></p>
+      <p><sub>🔒 Codice privato · <a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">Visualizza la scheda del progetto</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍷 e-Wine</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/e-wine/README.md">🍷 e-Wine</a></h3>
       <p><strong>Tecnologie Software per il Web · Ingegneria del Software</strong></p>
       <p>Progetto universitario di sviluppo web e attività di progettazione software, con interfaccia realizzata in JSP/Servlet, Bootstrap 4 e MySQL.</p>
       <p><code>Java</code> <code>JSP/Servlet</code> <code>MySQL</code> <code>Bootstrap 4</code></p>
@@ -125,10 +125,10 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 RememberMe</h3>
+      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md">🧠 RememberMe</a></h3>
       <p><strong>Interazione Uomo-Macchina (IUM)</strong></p>
       <p>Progetto universitario da presentare con la relativa documentazione e il materiale applicativo.</p>
-      <p><sub>📄 Analisi tecnica e screenshot da aggiungere dopo la revisione dei materiali</sub></p>
+      <p><sub>📄 Scheda preliminare disponibile · Documentazione da aggiungere</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>📘 Formazione universitaria</h3>
@@ -138,20 +138,6 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
     </td>
   </tr>
 </table>
-
-## ✦ Progetto universitario: GestioneFarmacia
-
-<div align="center">
-  <img src="assets/gestione-farmacia-overview.svg" width="880" alt="Panoramica illustrativa dei moduli di GestioneFarmacia: inventario farmaci, clienti, pazienti, medici, ricette, operatori, ASL, vendite, cassa e report. Non è uno screenshot reale." />
-</div>
-
-**GestioneFarmacia** è un progetto universitario di applicazione desktop progettata per rappresentare le principali attività gestionali di una farmacia. Ho sviluppato interfacce in **Java Swing** e l'accesso ai dati su **MySQL** tramite **JDBC** e classi **DAO (Data Access Object)**.
-
-Il codice contiene moduli per **anagrafiche di clienti, pazienti, medici e operatori**, **farmaci e inventario**, **ricette**, **vendite e cassa**, **ASL** e **report gestionali**. La struttura distingue le classi di dominio (`model`), l'accesso ai dati (`dao`) e l'interfaccia grafica (`gui`).
-
-`Java` · `Swing` · `MySQL` · `JDBC` · `DAO` · `Eclipse`
-
-> 🔒 **Codice sorgente privato — © 2026 Giovanni Del Gaudio. Tutti i diritti riservati.** La grafica qui sopra è una **panoramica illustrativa**, non uno screenshot dell'app avviata. Progetto accademico dimostrativo; non destinato a un utilizzo sanitario o commerciale reale.
 
 ## ✦ Come lavoro
 
