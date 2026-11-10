@@ -100,6 +100,20 @@ Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle
 
 **Altri progetti:** **Fit Zone** (gestione palestra), **Gestionale B&B** e attività di progettazione e documentazione per il corso universitario di Ingegneria del Software. Saranno pubblicati quando pronti per una revisione tecnica.
 
+## ✦ Progetto universitario: GestioneFarmacia
+
+<div align="center">
+  <img src="assets/gestione-farmacia-overview.svg" width="880" alt="Panoramica illustrativa dei moduli di GestioneFarmacia: inventario farmaci, clienti, pazienti, medici, ricette, operatori, ASL, vendite, cassa e report. Non è uno screenshot reale." />
+</div>
+
+**GestioneFarmacia** è un progetto universitario di applicazione desktop progettata per rappresentare le principali attività gestionali di una farmacia. Ho sviluppato interfacce in **Java Swing** e l'accesso ai dati su **MySQL** tramite **JDBC** e classi **DAO (Data Access Object)**.
+
+Il codice contiene moduli per **anagrafiche di clienti, pazienti, medici e operatori**, **farmaci e inventario**, **ricette**, **vendite e cassa**, **ASL** e **report gestionali**. La struttura distingue le classi di dominio (`model`), l'accesso ai dati (`dao`) e l'interfaccia grafica (`gui`).
+
+`Java` · `Swing` · `MySQL` · `JDBC` · `DAO` · `Eclipse`
+
+> 🔒 **Codice sorgente privato — © 2026 Giovanni Del Gaudio. Tutti i diritti riservati.** La grafica qui sopra è una **panoramica illustrativa**, non uno screenshot dell'app avviata. Progetto accademico dimostrativo; non destinato a un utilizzo sanitario o commerciale reale.
+
 ## ✦ Come lavoro
 
 <div align="center">
