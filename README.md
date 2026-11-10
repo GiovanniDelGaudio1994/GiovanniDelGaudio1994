@@ -119,6 +119,7 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
       <p><code>Java</code> <code>Swing</code> <code>MySQL</code> <code>JDBC</code> <code>DAO</code></p>
       <p><sub>🔒 Codice privato · <a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">Visualizza la scheda del progetto</a></sub></p>
     <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">📂 Apri la scheda del progetto</a></p>
+    <p><a href="https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/">▶ Prova la demo interattiva (simulazione)</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/e-wine/README.md">🍷 e-Wine</a></h3>
