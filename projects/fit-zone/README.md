@@ -1,10 +1,26 @@
-[![Copertina Fit Zone](assets/portfolio-cover.svg)](./)
+[![Copertina Fit Zone](assets/fit-zone-cover.webp)](./)
 
 # 🏋️ Fit Zone — Gestionale web per palestra
 
 **Progetto personale · PHP + MySQL · Pubblicazione del codice per portfolio**
 
 Fit Zone è una web app sviluppata come progetto personale, dedicata alla gestione di una palestra: presentazione di corsi e istruttori, prenotazioni, abbonamenti, account e area amministratore. Questa versione conserva l'architettura e le pagine del progetto originale, accompagnate da una prima revisione di sicurezza.
+
+## 🎬 Demo interattiva e anteprime
+
+**[▶ Apri la demo interattiva Fit Zone](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [☕ Esplora il codice PHP/MySQL](source/)
+
+> **Demo di portfolio**, separata dal backend PHP: riproduce i percorsi di esplorazione dei corsi, calendario, prenotazioni e abbonamenti con dati completamente inventati. Non salva account, non usa MySQL e non incassa pagamenti. Il layout dark delle anteprime è una reinterpretazione dimostrativa, non uno screenshot del vecchio sito PHP.
+
+| Panoramica | Catalogo corsi |
+|---|---|
+| [![Anteprima panoramica Fit Zone](assets/anteprima-home.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) | [![Anteprima corsi Fit Zone](assets/anteprima-corsi.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#corsi) |
+
+| Prenotazioni | Visualizzazione mobile |
+|---|---|
+| [![Anteprima prenotazioni Fit Zone](assets/anteprima-prenotazioni.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#prenotazioni) | [![Anteprima mobile Fit Zone](assets/anteprima-mobile.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) |
+
+**Nella demo puoi:** cercare e filtrare corsi, prenotare e annullare sessioni simulate, esplorare il calendario, consultare il profilo dimostrativo e selezionare un piano di abbonamento fittizio.
 
 ## Esplora il progetto
 
