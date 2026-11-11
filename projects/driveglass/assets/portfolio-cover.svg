@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" width="1000" height="450" role="img" aria-label="DriveGlass — copertina illustrativa portfolio"><defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112331"/><stop offset="1" stop-color="#1E4054"/></linearGradient>
+<radialGradient id="r"><stop stop-color="#77DDFB" stop-opacity=".16"/><stop offset="1" stop-color="#77DDFB" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="450" rx="30" fill="url(#b)"/>
+<circle cx="827" cy="259" r="240" fill="url(#r)"/>
+<path d="M60 73H940" stroke="#FFFFFF" stroke-opacity=".17"/>
+<rect x="64" y="36" width="12" height="12" rx="6" fill="#77DDFB"/>
+<text x="94" y="48" font-family="Arial,sans-serif" fill="#CAD9E0" font-size="21" font-weight="700" letter-spacing="2">PROGETTO PERSONALE</text>
+<rect x="643" y="112" width="303" height="300" rx="45" fill="#FFFFFF" fill-opacity=".045" stroke="#FFFFFF" stroke-opacity=".12"/>
+<g fill="none" stroke="#77DDFB" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"><path d="M700 302l28-77h139l39 77v72h-43v-22H742v22h-43v-72z"/><path d="M725 299h157"/><circle cx="750" cy="329" r="8"/><circle cx="858" cy="329" r="8"/></g>
+<text x="64" y="198" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#F5FAFF">DriveGlass</text>
+<text x="67" y="243" font-family="Arial,sans-serif" font-size="26" fill="#C8D8E2">Garage digitale & vehicle companion</text>
+<rect x="66" y="302" width="480" height="1" fill="#FFFFFF" fill-opacity=".2"/>
+<text x="67" y="346" font-family="Arial,sans-serif" font-size="24" fill="#77DDFB">Flutter  ·  Dart  ·  SQLite</text>
+<text x="66" y="410" font-family="Arial,sans-serif" font-size="18" fill="#94AAB7">Giovanni Del Gaudio · Portfolio</text>
+</svg>
