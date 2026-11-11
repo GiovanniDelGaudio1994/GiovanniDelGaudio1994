@@ -1,4 +1,4 @@
-[![Copertina Fit Zone](assets/fit-zone-cover.webp)](./)
+[![Copertina Fit Zone](assets/originale-homepage.webp)](./)
 
 # 🏋️ Fit Zone — Gestionale web per palestra
 
@@ -6,21 +6,27 @@
 
 Fit Zone è una web app sviluppata come progetto personale, dedicata alla gestione di una palestra: presentazione di corsi e istruttori, prenotazioni, abbonamenti, account e area amministratore. Questa versione conserva l'architettura e le pagine del progetto originale, accompagnate da una prima revisione di sicurezza.
 
-## 🎬 Demo interattiva e anteprime
+## 🖥️ Il vero sito Fit Zone — dalle pagine originali
 
-**[▶ Apri la demo interattiva Fit Zone](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [☕ Esplora il codice PHP/MySQL](source/)
+**[▶ Apri l'anteprima del sito originale](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [☕ Consulta il vero codice PHP/MySQL](source/)
 
-> **Demo di portfolio**, separata dal backend PHP: riproduce i percorsi di esplorazione dei corsi, calendario, prenotazioni e abbonamenti con dati completamente inventati. Non salva account, non usa MySQL e non incassa pagamenti. Il layout dark delle anteprime è una reinterpretazione dimostrativa, non uno screenshot del vecchio sito PHP.
+Questa presentazione mostra **l'interfaccia realmente progettata e scritta per Fit Zone**, ricavata dai file originali `index.php`, `corsi.php`, `login.php`, `register.php` e dalle altre pagine del progetto. Sono mantenuti **fotografie, impaginazione, colori arancioni, tipografia e fogli CSS originali**. Non si tratta più del dashboard scuro ricostruito in precedenza.
 
-| Panoramica | Catalogo corsi |
+> **Limite tecnico:** GitHub Pages visualizza HTML/CSS/JavaScript, ma non esegue PHP e MySQL. Le schermate sono prodotte dai template PHP originali con **dati dimostrativi**, senza account o contatti reali. Accesso, registrazione, prenotazione e pagamenti non salvano informazioni. Non è una versione PHP/MySQL in produzione.
+
+| Homepage originale | Catalogo corsi originale |
 |---|---|
-| [![Anteprima panoramica Fit Zone](assets/anteprima-home.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) | [![Anteprima corsi Fit Zone](assets/anteprima-corsi.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#corsi) |
+| [![Screenshot della homepage originale FitZone](assets/originale-homepage.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) | [![Screenshot dell'area corsi originale FitZone](assets/originale-corsi.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/corsi.html) |
 
-| Prenotazioni | Visualizzazione mobile |
+| Accesso originale | Abbonamenti originali |
 |---|---|
-| [![Anteprima prenotazioni Fit Zone](assets/anteprima-prenotazioni.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#prenotazioni) | [![Anteprima mobile Fit Zone](assets/anteprima-mobile.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) |
+| [![Screenshot dell'accesso FitZone originale](assets/originale-login.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/login.html) | [![Screenshot della pagina abbonamenti originale](assets/originale-abbonamenti.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/abbonamenti.html) |
 
-**Nella demo puoi:** cercare e filtrare corsi, prenotare e annullare sessioni simulate, esplorare il calendario, consultare il profilo dimostrativo e selezionare un piano di abbonamento fittizio.
+[![Anteprima mobile del frontend originale Fit Zone](assets/originale-mobile.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)
+
+Nell'anteprima puoi sfogliare **homepage, corsi, attività, istruttori, calendario, abbonamenti, prenotazioni, profilo, login e registrazione**. Il backend autentico da evolvere si trova nella cartella [`source/`](source/).
+
+**Nota sulle fotografie:** provengono dallo ZIP originale condiviso dall'autore e sono state compresse per il web. Le rispettive licenze e attribuzioni andranno verificate prima di una pubblicazione commerciale.
 
 ## Esplora il progetto
 
