@@ -1,30 +1,68 @@
-[![Copertina gestione-farmacia](assets/portfolio-cover.svg)](./)
+[![Copertina GestioneFarmacia](assets/portfolio-cover.svg)](./)
 
-# GestioneFarmacia — Progetto universitario di Basi di Dati
+# 💊 GestioneFarmacia — Progetto di Basi di Dati
 
-**Università degli Studi di Salerno · A.A. 2024/2025**
+**Università degli Studi di Salerno · A.A. 2024/2025 · Progetto universitario Java Swing + MySQL**
 
-GestioneFarmacia è un gestionale farmaceutico realizzato per il corso di **Basi di Dati**. Il progetto comprende l'analisi dei requisiti, la progettazione E-R, lo studio delle operazioni e dei volumi, la progettazione logica, lo schema relazionale e la normalizzazione fino alla terza forma normale (3NF).
+Gestionale desktop sviluppato per l'esame di **Basi di Dati**. Il lavoro comprende analisi dei requisiti, modello Entity–Relationship, analisi delle operazioni e dei volumi, traduzione nello schema relazionale, normalizzazione e implementazione di un'interfaccia Java Swing collegata a MySQL.
 
-**Tecnologie:** Java, Swing, MySQL, JDBC, DAO.
+## 🖥️ Demo interattiva ispirata alle schermate originali
 
-## Prova la demo interattiva
+[**▶ APRI LA DEMO VISUALE DI GESTIONEFARMACIA**](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/)
 
-[**Apri GestioneFarmacia — simulazione navigabile**](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/)
+La nuova demo riproduce l'organizzazione del vero gestionale desktop documentato nelle schermate: **login “Login Database”**, barra blu con titolo *Sistema di Gestione Farmaceutica*, menu laterale dei moduli, **farmaci da banco e prescritti**, **gestione pazienti**, **operatori e vendita**, **ricette**, **clienti**, **medici**, **ASL** e **report**.
 
-La demo è stata ricostruita dalle operazioni descritte nella documentazione: include ricerca di farmaci OTC/ETICI, pazienti, operatori, ricette e report; utilizza soltanto dati sintetici e non esegue il software Java Swing originale né accede a MySQL.
+La demo è **un'implementazione web ricostruttiva**, non il programma Java originale: utilizza dati sintetici locali, funziona senza installare MySQL e alcune operazioni di scrittura sono rappresentate come anteprime. Il codice completo del gestionale rimane privato.
 
-## Funzionalità documentate
-- Accesso e interfaccia principale del gestionale
-- Consultazione di farmaci OTC e farmaci soggetti a ricetta
-- Gestione e ricerca dei pazienti
-- Interrogazioni sugli operatori di cassa
-- Ricerca e gestione delle ricette
+## Funzionalità del progetto originale
 
-## Schermate dell'applicazione
-La relazione universitaria contiene screenshot autentici nelle pagine **38–42**. Le schermate saranno aggiunte qui dopo aver oscurato credenziali e dati identificativi.
+| Modulo | Responsabilità |
+|---|---|
+| **Farmaci** | Gestione inventario, quantità, prezzi e distinzione OTC / ETICI |
+| **Pazienti** | Anagrafiche, consultazione e interrogazioni |
+| **Clienti** | Gestione dei clienti |
+| **Operatori** | Anagrafica degli operatori, assegnazione alle casse, vendite |
+| **Ricette** | Prescrizioni con riferimenti a medico, paziente e farmaco |
+| **Medici** | Anagrafiche e interrogazioni |
+| **ASL** | Informazioni e accrediti |
+| **Report** | Inventario, vendite e dati di supporto gestionale |
 
-## Cosa dimostra
-Modellazione concettuale e logica dei dati, SQL e interrogazioni, implementazione di interfacce desktop e integrazione di un'applicazione con un database relazionale.
+Queste aree sono riscontrabili nell'interfaccia e nelle classi del progetto Java.
 
-**Codice sorgente riservato.** © 2026 Giovanni Del Gaudio · Tutti i diritti riservati. Progetto accademico dimostrativo, non un gestionale sanitario in produzione.
+## Architettura
+
+```text
+GestioneFarmacia/
+├── src/
+│   ├── model/    # Entità e strutture dati
+│   ├── dao/      # Persistenza JDBC e query SQL
+│   └── gui/      # Finestre Java Swing
+├── resources/    # Risorse grafiche
+└── farmacia.sql  # Schema e dataset (privati)
+```
+
+Il livello **model** rappresenta le entità del dominio; il livello **dao** concentra le operazioni su database tramite JDBC, mentre il package **gui** contiene le schermate applicative. Il progetto originale ha configurazioni storiche e richiede un ambiente MySQL locale per essere eseguito integralmente.
+
+## 👨‍💻 Una parte del codice Java originale è pubblica
+
+Per consentire ai recruiter tecnici di valutare una parte del lavoro senza rendere pubblico tutto il programma, ho selezionato due classi reali del progetto dal package `model`:
+
+- [**Farmaco.java**](codice-pubblico/Farmaco.java) — modello di farmaco, proprietà e riferimenti alle ricette.
+- [**ReportInventario.java**](codice-pubblico/ReportInventario.java) — struttura dati per i report dell'inventario.
+- [**Leggi le note sul codice pubblicato**](codice-pubblico/README.md).
+
+Sono versioni di lettura leggermente riformattate. I DAO, le password, gli account MySQL, il file SQL e il resto del sorgente **non** vengono distribuiti.
+
+## Screenshot autentici e tutela dei dati
+
+La documentazione dell'esame mostra le schermate della versione originale (login, navigazione farmaci, gestione pazienti, operatori e ricette). Alcune immagini originali riportano **nomi, contatti e codici fiscali**: per evitare divulgazioni indesiderate non vengono ripubblicate tali e quali. La demo permette di esaminare gli stessi moduli con **dati fittizi**.
+
+## Competenze messe in evidenza
+
+`Java` · `Swing` · `MySQL` · `SQL` · `JDBC` · `DAO` · `E-R` · `Progettazione logica` · `Normalizzazione 3NF`
+
+> **Progetto accademico**: non è un prodotto sanitario in esercizio e non è destinato alla gestione di pazienti reali.
+
+---
+
+**Copyright © 2026 Giovanni Del Gaudio. Tutti i diritti riservati sui contributi originali.** La pubblicazione di un estratto del codice è destinata alla lettura tecnica e non concede una licenza open source.
