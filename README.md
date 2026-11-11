@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/GiovanniDelGaudio1994" title="Profilo GitHub di Giovanni Del Gaudio">
-  <img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" width="100%" alt="FORMA AI — copertina neon con anteprima della futura applicazione fitness" />
+  <img src="assets/tech-orbit.gif" width="860" alt="Animazione originale: simboli di programmazione in movimento attorno a un laptop, in un ambiente scuro con luci neon" />
 </a>
 
 # Ciao, sono Giovanni 👋
