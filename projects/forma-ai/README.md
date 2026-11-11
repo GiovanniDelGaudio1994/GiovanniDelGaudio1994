@@ -1,4 +1,4 @@
-[![Copertina FORMA AI](assets/portfolio-cover.svg)](./)
+[![Copertina FORMA AI](assets/portfolio-cover-2026.webp)](./)
 
 # 🏋️ FORMA AI — Fitness & AI
 
