@@ -2,6 +2,12 @@
 
 # e-Wine — E-commerce universitario
 
+**[▶ Apri la demo pubblica navigabile](https://giovannidelgaudio1994.github.io/forma-ai/ewine-demo/)**
+
+La demo mostra un sito navigabile ispirato alle schermate dell'originale, con catalogo filtrabile per tipo e regione, ricerca, ordinamento, carrello simulato e tre aree dimostrative: cliente, amministratore e responsabile spedizioni. Il codice originale dell'applicazione Java/JSP, il database e le credenziali **non sono pubblicati**. Le azioni nella demo usano soltanto dati inventati e non eseguono ordini reali. Il progetto originale aveva anche un filtro Servlet sullo User-Agent, che impediva l'accesso tramite Safari con messaggio «Usa Firefox»; la demo descrive il comportamento ma non applica questa restrizione.
+
+
+
 **Progetto universitario completo · Codice applicativo riservato**
 
 Web application sviluppata per l'insegnamento **Tecnologie per il Software Web** presso l'Università degli Studi di Salerno (A.A. 2020–2021), presentata da Giovanni Del Gaudio. Il progetto è collegato anche al percorso di Ingegneria del Software.
