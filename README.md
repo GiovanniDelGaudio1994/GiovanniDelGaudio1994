@@ -60,95 +60,100 @@ Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle
 
 > Le tecnologie riportate rappresentano esperienza progettuale e formazione in corso, non certificazioni di livello senior.
 
-## ✦ 🚀 Progetti personali
+## 🚀 Progetti personali
 
-Applicazioni e prototipi sviluppati al di fuori dei corsi universitari. Alcuni sono ancora in fase di sviluppo.
+Applicazioni indipendenti e prototipi in sviluppo, con presentazioni pubbliche e codice proprietario protetto.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/forma-ai">🏋️ FORMA AI</a></h3>
-      <p><strong>AI-Powered Fitness Experience</strong></p>
-      <p>Piattaforma fitness <em>local-first</em> con anteprima interattiva di allenamenti, progressi, alimentazione e coach digitale. In sviluppo un Exercise Atlas con schede tecniche e concept anatomici 3D.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>PWA</code> <code>Testing</code></p>
-      <p><a href="https://github.com/GiovanniDelGaudio1994/forma-ai">Repository demo</a> · <a href="https://giovannidelgaudio1994.github.io/forma-ai/">Prova la demo live</a></p>
-      <p><sub>⚠️ Demo con dati fittizi; le funzionalità AI avanzate sono anteprime. Il codice completo resta privato.</sub></p>
-    <p><a href="https://giovannidelgaudio1994.github.io/forma-ai/">▶ Visita la demo interattiva</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/driveglass/README.md">🚘 DriveGlass</a></h3>
-      <p><strong>Digital Garage & Vehicle Companion</strong></p>
-      <p>Applicazione in sviluppo per veicoli, manutenzioni, scadenze e documenti, con sperimentazione di API e sincronizzazione cloud.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>SQLite</code> <code>TypeScript</code></p>
-      <p><sub>🚧 Work in progress — codice non ancora pubblicato</sub></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/driveglass/README.md">📂 Apri la scheda del progetto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/fit-zone/README.md">🏢 Fit Zone</a></h3>
-      <p><strong>Progetto personale · Gestionale palestra</strong></p>
-      <p>Progetto personale per la gestione di una palestra, sviluppato con PHP e MongoDB.</p>
-      <p><code>PHP</code> <code>MongoDB</code></p>
-      <p><sub>🔧 In revisione per una presentazione pubblica del progetto</sub></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/fit-zone/README.md">📂 Apri la scheda del progetto</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/cilento-platform/README.md">🗺️ Cilento Platform</a></h3>
-      <p><strong>Territory & Tourism Platform</strong></p>
-      <p>Prototipo digitale per il Cilento: informazioni territoriali, strutture ricettive, camping e simulazioni di prenotazione.</p>
-      <p><code>Web Development</code> <code>Backend</code> <code>Database</code></p>
-      <p><sub>🚧 Work in progress — funzionalità non ancora complete</sub></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/cilento-platform/README.md">📂 Apri la scheda del progetto</a></p>
-    </td>
-  </tr>
-</table>
+### 🏋️ [FORMA AI](https://github.com/GiovanniDelGaudio1994/forma-ai)
+**Piattaforma fitness con funzionalità AI — Demo disponibile**
 
-**Altro progetto personale:** [**Gestionale B&B**](https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestionale-bnb/README.md) — da revisionare e documentare per il portfolio.
+Applicazione *local-first* con anteprima interattiva di allenamenti, progressi, alimentazione e coach digitale. In progettazione un Exercise Atlas con schede tecniche e concept anatomici 3D.
 
-## ✦ 🎓 Progetti universitari
+`JavaScript` · `Node.js` · `PWA` · `Testing`
 
-Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a requisiti, progettazione, database e documentazione tecnica.
+[**▶ Prova la demo interattiva**](https://giovannidelgaudio1994.github.io/forma-ai/) · [Repository della demo](https://github.com/GiovanniDelGaudio1994/forma-ai)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">💊 GestioneFarmacia</a></h3>
-      <p><strong>Basi di Dati · A.A. 2024/2025</strong></p>
-      <p>Progettazione E-R, schema relazionale, normalizzazione e applicazione desktop per la gestione farmaceutica, con interfaccia grafica e interrogazioni al database.</p>
-      <p><code>Java</code> <code>Swing</code> <code>MySQL</code> <code>JDBC</code> <code>DAO</code></p>
-      <p><sub>🔒 Codice privato · <a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">Visualizza la scheda del progetto</a></sub></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/gestione-farmacia/README.md">📂 Apri la scheda del progetto</a></p>
-    <p><a href="https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/">▶ Prova la demo interattiva (simulazione)</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/e-wine/README.md">🍷 e-Wine</a></h3>
-      <p><strong>Tecnologie Software per il Web · Ingegneria del Software</strong></p>
-      <p>Progetto universitario di sviluppo web e attività di progettazione software, con interfaccia realizzata in JSP/Servlet, Bootstrap 4 e MySQL.</p>
-      <p><code>Java</code> <code>JSP/Servlet</code> <code>MySQL</code> <code>Bootstrap 4</code></p>
-      <p><sub>📚 Codice e documentazione in revisione prima della pubblicazione</sub></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/e-wine/README.md">📂 Apri la scheda del progetto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md">🧠 RememberMe (iRem)</a></h3>
-      <p align="center"><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md"><img src="projects/rememberme/assets/irem-cover.svg" alt="iRem RememberMe — icona e copertina del progetto" width="100%" /></a></p>
-      
-      <p><strong>Interazione Uomo-Macchina (IUM)</strong></p>
-      <p>Progetto universitario di gruppo centrato sull'utente: analisi dei bisogni, personas, paper sketch, mockup, cognitive walkthrough e test di usabilità. Prototipo storico Android per eventi e ricordi.</p>
-      <p><sub>📚 Case study IUM dettagliato disponibile · Immagini autentiche nel pacchetto showcase</sub></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md">📂 Apri la scheda del progetto</a></p>
-    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/assets/irem-prototipo-animato.svg">▶ Guarda la demo animata</a></p>
-      </td>
-    <td width="50%" valign="top">
-      <h3>📘 Competenze accademiche</h3>
-      <p><strong>Analisi · Progettazione · Sviluppo · Documentazione</strong></p>
-      <p>I progetti accademici mostrano il percorso dalla raccolta dei requisiti alle scelte progettuali e all'implementazione.</p>
-      <p><sub>🎓 Portfolio di uno studente di Informatica</sub></p>
-    </td>
-  </tr>
-</table>
+> Demo con dati fittizi. Alcune funzionalità AI sono anteprime; il codice completo resta privato.
+
+---
+
+### 🚘 [DriveGlass](projects/driveglass/README.md)
+**Garage digitale e gestione veicoli — In sviluppo**
+
+App per gestione di veicoli, chilometraggio, manutenzioni, scadenze e documenti. Include sperimentazioni con API e sincronizzazione cloud.
+
+`Flutter` · `Dart` · `SQLite` · `TypeScript`
+
+[**📂 Esplora DriveGlass**](projects/driveglass/README.md)
+
+---
+
+### 🏢 [Fit Zone](projects/fit-zone/README.md)
+**Gestionale palestra — Progetto personale**
+
+Software di gestione palestra sviluppato utilizzando PHP e MongoDB.
+
+`PHP` · `MongoDB`
+
+[**📂 Esplora Fit Zone**](projects/fit-zone/README.md)
+
+---
+
+### 🗺️ [Cilento Platform](projects/cilento-platform/README.md)
+**Piattaforma per territorio e turismo — In sviluppo**
+
+Prototipo dedicato a informazioni territoriali, strutture ricettive, aree camping e simulazioni di prenotazione.
+
+`Web Development` · `Backend` · `Database`
+
+[**📂 Esplora Cilento Platform**](projects/cilento-platform/README.md)
+
+**Altro progetto personale:** [Gestionale B&B](projects/gestionale-bnb/README.md), in fase di revisione.
+
+---
+
+## 🎓 Progetti universitari
+
+Elaborati realizzati durante il percorso di Informatica: progettazione, applicazioni e valutazione dell'usabilità.
+
+### 💊 [GestioneFarmacia](projects/gestione-farmacia/README.md)
+**Esame di Basi di Dati · A.A. 2024/2025**
+
+Progetto che comprende modello E-R, schema relazionale, normalizzazione e applicazione Java Swing per operazioni gestionali su una farmacia, con database MySQL.
+
+`Java` · `Swing` · `MySQL` · `JDBC` · `DAO`
+
+[**📂 Documentazione del progetto**](projects/gestione-farmacia/README.md) · [**▶ Demo interattiva simulata**](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/)
+
+> Codice sorgente privato. La demo è una ricostruzione con dati inventati, non l'eseguibile Java originale.
+
+---
+
+### 🍷 [e-Wine](projects/e-wine/README.md)
+**Tecnologie Software per il Web · Ingegneria del Software**
+
+Progetto universitario di sviluppo web e progettazione software con Java JSP/Servlet, interfaccia Bootstrap 4 e database MySQL.
+
+`Java` · `JSP/Servlet` · `Bootstrap 4` · `MySQL`
+
+[**📂 Esplora e-Wine**](projects/e-wine/README.md)
+
+---
+
+### 🧠 [RememberMe — iRem](projects/rememberme/README.md)
+**Interazione Uomo–Macchina (IUM) · Progetto di gruppo**
+
+Analisi dei bisogni degli utenti, personas, casi d'uso, paper sketch, mockup e valutazione di usabilità. Prototipo universitario storico di un'app per eventi e foto-ricordo.
+
+[![Copertina di RememberMe iRem](projects/rememberme/assets/irem-cover.svg)](projects/rememberme/README.md)
+
+`Human–Computer Interaction` · `User-Centered Design` · `Prototyping` · `Usability Testing`
+
+[**▶ Guarda il prototipo animato**](projects/rememberme/assets/irem-prototipo-animato.svg) · [**📂 Leggi documentazione e progetto**](projects/rememberme/README.md)
+
+> L'animazione è una ricostruzione dimostrativa delle schermate del prototipo PowerPoint, non una registrazione dell'app Android.
+
+---
 
 ## ✦ Come lavoro
 
