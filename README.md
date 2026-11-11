@@ -26,140 +26,94 @@ Studio **Informatica presso l'Università degli Studi di Salerno** e sono vicino
 
 ## 🚀 Progetti personali
 
-Seleziona una copertina per approfondire il progetto. Le **demo web** sono esperienze pubbliche navigabili; alcuni progetti mobile sono ancora in sviluppo.
+Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il progetto o scegli la demo per provarlo.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-[<img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" alt="FORMA AI" width="100%"/>](projects/forma-ai/)
-
-**[FORMA AI](projects/forma-ai/)**
-
-Fitness e allenamento con funzionalità AI in evoluzione.
-
-[▶ Apri la demo](https://giovannidelgaudio1994.github.io/forma-ai/) · [📄 Progetto](projects/forma-ai/)
-
+<a href="projects/forma-ai/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" alt="Copertina FORMA AI" width="100%"></a>
+<p><strong><a href="projects/forma-ai/">FORMA AI</a></strong></p>
+<p><strong>Fitness · Flutter · AI</strong></p>
+<p>App fitness e allenamento con funzionalità AI in evoluzione.</p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
 </td>
 <td width="50%" valign="top">
-
-[<img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="DriveGlass" width="100%"/>](projects/driveglass/)
-
-**[DriveGlass](projects/driveglass/)**
-
-Garage digitale per gestire auto, manutenzione e documenti. In sviluppo.
-
-[📄 Progetto](projects/driveglass/)
-
+<a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
+<p><strong><a href="projects/driveglass/">DriveGlass</a></strong></p>
+<p><strong>Flutter · Garage digitale</strong></p>
+<p>Gestione auto, manutenzioni e documenti. In sviluppo.</p>
+<p><a href="projects/driveglass/">Scheda progetto</a></p>
 </td>
 </tr>
+
 <tr>
-<td valign="top">
-
-[<img src="projects/fit-zone/assets/copertina-fit-zone-originale-2026.webp" alt="Fit Zone" width="100%"/>](projects/fit-zone/)
-
-**[Fit Zone](projects/fit-zone/)**
-
-Gestionale web per palestra, corsi, abbonamenti e prenotazioni.
-
-[▶ Demo](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) · [📄 Progetto](projects/fit-zone/)
-
+<td width="50%" valign="top">
+<a href="projects/fit-zone/"><img src="projects/fit-zone/assets/copertina-fit-zone-originale-2026.webp" alt="Copertina Fit Zone" width="100%"></a>
+<p><strong><a href="projects/fit-zone/">Fit Zone</a></strong></p>
+<p><strong>PHP · MySQL</strong></p>
+<p>Gestionale palestra: corsi, abbonamenti e prenotazioni.</p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/">▶ Demo pubblica</a> · <a href="projects/fit-zone/source/">Codice PHP</a></p>
 </td>
-<td valign="top">
-
-[<img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/signalscope-cover.svg" alt="SignalScope" width="100%"/>](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)
-
-**[SignalScope / Scraper](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)**
-
-Controlla se una pagina pubblica cambia, conserva uno storico e mostra le differenze. Prototipo Python con codice pubblico.
-
-[▶ Prova il confronto](https://giovannidelgaudio1994.github.io/forma-ai/signalscope-demo/) · [⌨️ Codice](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)
-
+<td width="50%" valign="top">
+<a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/signalscope-cover.svg" alt="Copertina SignalScope" width="100%"></a>
+<p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/">SignalScope / Scraper</a></strong></p>
+<p><strong>Python · SQLite</strong></p>
+<p>Rileva e documenta modifiche a pagine pubbliche. Motore CLI e demo interattiva.</p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/signalscope-demo/">▶ Demo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice</a></p>
 </td>
 </tr>
+
 <tr>
-<td valign="top">
-
-[<img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/meteo-bash2d-cover.svg" alt="Meteo Bash 2D" width="100%"/>](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)
-
-**[Meteo Bash 2D](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)**
-
-Meteo in stile terminale: condizioni e previsioni a 3 giorni. Demo web con dati Open-Meteo.
-
-[▶ Meteo live](https://giovannidelgaudio1994.github.io/forma-ai/meteo-bash2d-demo/) · [⌨️ Script Bash](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)
-
+<td width="50%" valign="top">
+<a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/meteo-bash2d-cover.svg" alt="Copertina Meteo Bash 2D" width="100%"></a>
+<p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Meteo Bash 2D</a></strong></p>
+<p><strong>Bash · Open-Meteo</strong></p>
+<p>Meteo e previsioni in stile terminale, con demo web.</p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/meteo-bash2d-demo/">▶ Live meteo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Codice</a></p>
 </td>
-<td valign="top">
-
-[<img src="projects/cilento-platform/assets/portfolio-cover.svg" alt="Cilento Platform" width="100%"/>](projects/cilento-platform/)
-
-**[Cilento Platform](projects/cilento-platform/)**
-
-Progetto dedicato al turismo e alla valorizzazione del territorio. In sviluppo.
-
-[📄 Progetto](projects/cilento-platform/)
-
+<td width="50%" valign="top">
+<a href="projects/cilento-platform/"><img src="projects/cilento-platform/assets/portfolio-cover.svg" alt="Copertina Cilento Platform" width="100%"></a>
+<p><strong><a href="projects/cilento-platform/">Cilento Platform</a></strong></p>
+<p><strong>Web · Turismo</strong></p>
+<p>Progetto per valorizzare il territorio, in sviluppo.</p>
+<p><a href="projects/cilento-platform/">Scheda progetto</a></p>
 </td>
 </tr>
+
 </table>
 
-**Altro progetto personale:** [Gestionale B&B](projects/gestionale-bnb/) — scheda in preparazione.
+**Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) — scheda in preparazione.
 
 ---
 
 ## 🎓 Progetti universitari
 
-Progetti realizzati durante il percorso di Informatica presso **UNISA**. Le copertine portano alle rispettive schede; il codice completo di e-Wine non viene pubblicato.
+Progetti del percorso di Informatica presso **UNISA**, con copertine e materiali dimostrativi. I sorgenti completi di e-Wine restano privati.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-[<img src="projects/gestione-farmacia/assets/portfolio-cover-2026.webp" alt="Copertina GestioneFarmacia" width="100%"/>](projects/gestione-farmacia/)
-
-**[GestioneFarmacia](projects/gestione-farmacia/)**
-
-**Basi di Dati** · Java, MySQL
-
-Gestionale farmacia con inventario, clienti e gestione dei farmaci.
-
-[▶ Demo pubblica](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/) · [📄 Scheda](projects/gestione-farmacia/)
-
+<a href="projects/gestione-farmacia/"><img src="projects/gestione-farmacia/assets/portfolio-cover-2026.webp" alt="Copertina GestioneFarmacia" width="100%"></a>
+<p><strong><a href="projects/gestione-farmacia/">GestioneFarmacia</a></strong></p>
+<p><strong>Basi di Dati · Java / MySQL</strong></p>
+<p>Gestionale farmacia con inventario, clienti e farmaci.</p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/">▶ Demo</a> · <a href="projects/gestione-farmacia/">Scheda</a></p>
 </td>
 <td width="50%" valign="top">
-
-[<img src="projects/rememberme/assets/portfolio-cover.svg" alt="Copertina RememberMe - iRem" width="100%"/>](projects/rememberme/)
-
-**[RememberMe · iRem](projects/rememberme/)**
-
-**Interazione Uomo–Macchina** · UX, prototipazione
-
-Progetto universitario di analisi e progettazione di un'app di promemoria.
-
-[▶ Prototipo](projects/rememberme/assets/irem-prototipo-animato.svg) · [📄 Scheda](projects/rememberme/)
-
+<a href="projects/rememberme/"><img src="projects/rememberme/assets/portfolio-cover.svg" alt="Copertina RememberMe" width="100%"></a>
+<p><strong><a href="projects/rememberme/">RememberMe · iRem</a></strong></p>
+<p><strong>Interazione Uomo–Macchina · UX</strong></p>
+<p>Prototipo e documentazione di un'app di promemoria.</p>
+<p><a href="projects/rememberme/assets/irem-prototipo-animato.svg">▶ Prototipo</a> · <a href="projects/rememberme/">Scheda</a></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-[<img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/ewine-cover.svg" alt="Copertina e-Wine" width="100%"/>](projects/e-wine/)
-
-**[e-Wine](projects/e-wine/)**
-
-**Tecnologie Software per il Web · Ingegneria del Software**
-
-E-commerce di vini sviluppato con Java, JSP, Servlet, Bootstrap e MySQL. Presentazione pubblica, **codice applicativo riservato**.
-
-[▶ Demo navigabile](https://giovannidelgaudio1994.github.io/forma-ai/ewine-demo/) · [📄 Scheda progetto](projects/e-wine/)
-
-</td>
-<td width="50%" valign="top">
-
-**🔒 Codice e-Wine riservato**
-
-Il progetto applicativo completo non è distribuito pubblicamente. La presentazione del lavoro illustra architettura, ruoli, funzionalità e competenze, senza rivelare i sorgenti.
-
+<td width="50%" valign="top" colspan="2" align="center">
+<a href="projects/e-wine/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/ewine-cover.jpg" alt="e-Wine, copertina fotografica tratta dal progetto originale" width="560"></a>
+<p><strong><a href="projects/e-wine/">e-Wine</a></strong></p>
+<p><strong>Tecnologie per il Software Web · Ingegneria del Software</strong></p>
+<p>E-commerce universitario Java/JSP, Servlet, Bootstrap 4 e MySQL. Demo pubblica navigabile; codice applicativo completo riservato.</p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/ewine-demo/">▶ Demo navigabile</a> · <a href="projects/e-wine/">Scheda progetto</a></p>
 </td>
 </tr>
 </table>
