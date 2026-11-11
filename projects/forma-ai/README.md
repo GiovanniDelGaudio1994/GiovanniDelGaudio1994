@@ -6,11 +6,11 @@
 
 FORMA AI è un progetto personale per una piattaforma fitness *local-first*, con una demo pubblica che mostra l'esperienza utente prevista e un percorso di sviluppo verso una futura app. Il motore AI e le funzionalità avanzate rimangono in fase di progettazione o sperimentazione.
 
-[**▶ PROVA LA DEMO INTERATTIVA**](https://giovannidelgaudio1994.github.io/forma-ai/) · [**📂 Apri la repository pubblica con la documentazione completa**](https://github.com/GiovanniDelGaudio1994/forma-ai) · [**🗺️ Roadmap**](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/ROADMAP.md)
+[**▶ PROVA LA DEMO INTERATTIVA**](https://giovannidelgaudio1994.github.io/forma-ai/forma-ai-demo/) · [**📂 Apri la repository pubblica con la documentazione completa**](https://github.com/GiovanniDelGaudio1994/forma-ai) · [**🗺️ Roadmap**](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/ROADMAP.md)
 
 ## 📱 Anteprima del progetto
 
-[![Tour animato della demo FORMA AI](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-demo-animated.gif)](https://giovannidelgaudio1994.github.io/forma-ai/)
+[![Tour animato della demo FORMA AI](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-demo-animated.gif)](https://giovannidelgaudio1994.github.io/forma-ai/forma-ai-demo/)
 
 *Tour illustrativo della demo. Dati e persone sono dimostrativi; le funzioni AI avanzate non sono operative in questa preview.*
 
