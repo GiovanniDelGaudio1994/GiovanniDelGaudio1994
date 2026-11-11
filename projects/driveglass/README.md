@@ -1,4 +1,4 @@
-[![Copertina driveglass](assets/portfolio-cover.svg)](./)
+[![Copertina driveglass](assets/portfolio-cover-2026.webp)](./)
 
 # DriveGlass
 
