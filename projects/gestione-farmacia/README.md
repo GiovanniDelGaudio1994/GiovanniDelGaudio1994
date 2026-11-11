@@ -1,4 +1,4 @@
-[![Copertina GestioneFarmacia](assets/portfolio-cover-final.svg)](./)
+[![Copertina GestioneFarmacia](assets/portfolio-cover-2026.webp)](./)
 
 # 💊 GestioneFarmacia — Progetto di Basi di Dati
 
