@@ -133,11 +133,14 @@ Progetti sviluppati nell'ambito di insegnamenti universitari, con attenzione a r
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md">🧠 RememberMe (iRem)</a></h3>
+      <p align="center"><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md"><img src="projects/rememberme/assets/irem-cover.svg" alt="iRem RememberMe — icona e copertina del progetto" width="100%" /></a></p>
+      
       <p><strong>Interazione Uomo-Macchina (IUM)</strong></p>
       <p>Progetto universitario di gruppo centrato sull'utente: analisi dei bisogni, personas, paper sketch, mockup, cognitive walkthrough e test di usabilità. Prototipo storico Android per eventi e ricordi.</p>
       <p><sub>📚 Case study IUM dettagliato disponibile · Immagini autentiche nel pacchetto showcase</sub></p>
     <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/README.md">📂 Apri la scheda del progetto</a></p>
-    </td>
+    <p><a href="https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/blob/main/projects/rememberme/assets/irem-prototipo-animato.svg">▶ Guarda la demo animata</a></p>
+      </td>
     <td width="50%" valign="top">
       <h3>📘 Competenze accademiche</h3>
       <p><strong>Analisi · Progettazione · Sviluppo · Documentazione</strong></p>
