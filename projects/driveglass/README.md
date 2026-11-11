@@ -1,4 +1,4 @@
-[![Copertina driveglass](assets/portfolio-cover-2026.webp)](./)
+[![Copertina DriveGlass — identica alla copertina del sito personale](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp)](./)
 
 # DriveGlass
 
