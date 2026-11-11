@@ -1,27 +1,46 @@
-[![FORMA AI — copertina del progetto](assets/portfolio-cover.svg)](https://giovannidelgaudio1994.github.io/forma-ai/)
+[![Copertina FORMA AI](assets/portfolio-cover.svg)](./)
 
-# 🏋️ FORMA AI
+# 🏋️ FORMA AI — Fitness & AI
 
-**Progetto personale · Fitness e intelligenza artificiale · In sviluppo**
+**Progetto personale · Product concept · Demo web navigabile · Sviluppo in corso**
 
-FORMA AI è una piattaforma fitness *local-first* con una demo pubblica navigabile che mostra le interfacce di allenamenti, progressi, alimentazione e coach digitale. La roadmap comprende un **Exercise Atlas** con schede tecniche e concept anatomici 3D.
+FORMA AI è un progetto personale per una piattaforma fitness *local-first*, con una demo pubblica che mostra l'esperienza utente prevista e un percorso di sviluppo verso una futura app. Il motore AI e le funzionalità avanzate rimangono in fase di progettazione o sperimentazione.
 
-## Funzioni presentate
+[**▶ PROVA LA DEMO INTERATTIVA**](https://giovannidelgaudio1994.github.io/forma-ai/) · [**📂 Apri la repository pubblica con la documentazione completa**](https://github.com/GiovanniDelGaudio1994/forma-ai) · [**🗺️ Roadmap**](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/ROADMAP.md)
 
-- Anteprima di allenamenti e progressi.
-- Organizzazione delle informazioni nutrizionali.
-- Prototipi di coach digitale e funzioni AI (non ancora completamente operative).
-- Esplorazione di esercizi e pianificazione futura dell'atlante.
+## 📱 Anteprima del progetto
 
-## Tecnologie
+[![Tour animato della demo FORMA AI](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-demo-animated.gif)](https://giovannidelgaudio1994.github.io/forma-ai/)
+
+*Tour illustrativo della demo. Dati e persone sono dimostrativi; le funzioni AI avanzate non sono operative in questa preview.*
+
+## Funzionalità visualizzabili nella demo
+
+| Area | Cosa si può esplorare | Stato |
+|---|---|---|
+| Dashboard | Panoramica e metriche di esempio | Demo navigabile |
+| Allenamenti | Anteprime di schede con diversi obiettivi | Demo navigabile |
+| Alimentazione | Ricette e avvisi sugli allergeni | Solo esempi |
+| Check & progressi | Grafici e valori fittizi | Demo navigabile |
+| Coach digitale | Esempi educativi e interfaccia conversazionale | Anteprima, non AI live |
+| Motion Lab | Concept di analisi della tecnica | Design preview, nessuna analisi video |
+
+## Roadmap: Exercise Atlas & Virtual Coach
+
+Le prossime fasi progettuali includono un catalogo esercizi con gruppi muscolari, attrezzi, difficoltà e alternative, visualizzazioni anatomiche, un trainer virtuale originale e una futura integrazione del coaching AI. **Queste funzioni non sono ancora da considerarsi implementate.**
+
+## Tecnologie e architettura
 
 `JavaScript` · `Node.js` · `PWA` · `Testing`
 
-## Demo e repository
+La **demo pubblica** è statica e funziona nel browser senza registrazione o backend. Il codice completo del prodotto e gli eventuali servizi AI rimangono separati in una repository privata.
 
-- **[▶ Prova la demo pubblica](https://giovannidelgaudio1994.github.io/forma-ai/)**
-- **[📂 Repository della demo](https://github.com/GiovanniDelGaudio1994/forma-ai)**
+## Tutela del codice
 
-> La demo usa dati fittizi e alcune funzioni AI sono anteprime. Il codice completo rimane nella repository privata `forma-ai-private`. Questa cartella pubblica contiene soltanto la presentazione del progetto.
+La repository della demo è pubblicamente visibile; ciò **non** implica che la versione commerciale sia open source. La presenza di una vecchia licenza MIT nella storia Git della repository pubblica richiede cautela: le autorizzazioni già concesse non vengono annullate semplicemente modificando la licenza oggi.
 
-© 2026 Giovanni Del Gaudio · Materiale originale riservato.
+[**Vai alla documentazione tecnica dettagliata di FORMA AI**](https://github.com/GiovanniDelGaudio1994/forma-ai#readme)
+
+---
+
+© 2026 Giovanni Del Gaudio. Tutti i diritti riservati sui materiali originali per cui dispone dei diritti.
