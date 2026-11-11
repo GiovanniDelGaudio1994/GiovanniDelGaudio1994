@@ -1,4 +1,4 @@
-[![Copertina FORMA AI](assets/portfolio-cover-2026.webp)](./)
+[![Copertina FORMA AI](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg)](./)
 
 # 🏋️ FORMA AI — Fitness & AI
 
