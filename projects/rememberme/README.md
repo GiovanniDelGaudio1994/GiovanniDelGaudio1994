@@ -97,3 +97,13 @@ Gli elaborati riportano **Francesco Sciretta, Giovanni Del Gaudio e Felice Napol
 ---
 
 **Portfolio di Giovanni Del Gaudio** · Progetto realizzato in gruppo · I contributi e le componenti di terzi restano soggetti ai diritti dei rispettivi autori.
+
+## 📚 Documentazione del progetto
+
+Al termine della presentazione sono disponibili due approfondimenti ricavati **dai documenti universitari originali**:
+
+- 📄 [**Assignment 1, 2 e 3 — analisi utenti, casi d'uso, paper sketch e testing**](documentazione/assignment-1-2-3.md)
+- 📊 [**Presentazione finale IUM — obiettivi, mockup, valutazione e risultati**](documentazione/presentazione-ium.md)
+
+**Documenti originali di riferimento:** `Assignment1,2,3.docx`, `Assignment1,2,3.pdf` e `Presentazione ium.pptx`. Le pagine collegate sono rielaborazioni consultabili direttamente su GitHub; i file binari originali non sono ancora caricati nella repository pubblica.
+
