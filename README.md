@@ -143,7 +143,7 @@ Progetto universitario di analisi e progettazione di un'app di promemoria.
 <tr>
 <td width="50%" valign="top">
 
-[<img src="projects/e-wine/assets/portfolio-cover.svg" alt="Copertina e-Wine" width="100%"/>](projects/e-wine/)
+[<img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/ewine-cover.svg" alt="Copertina e-Wine" width="100%"/>](projects/e-wine/)
 
 **[e-Wine](projects/e-wine/)**
 
