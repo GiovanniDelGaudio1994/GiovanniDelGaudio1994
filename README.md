@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/GiovanniDelGaudio1994" title="Profilo GitHub di Giovanni Del Gaudio">
-  <img src="assets/tech-orbit.gif" width="860" alt="Animazione originale: simboli di programmazione in movimento attorno a un laptop, in un ambiente scuro con luci neon" />
+  <img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" width="100%" alt="FORMA AI — copertina neon con anteprima della futura applicazione fitness" />
 </a>
 
 # Ciao, sono Giovanni 👋
@@ -68,7 +68,7 @@ Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle
 
 | | |
 |:--|:--|
-| [![Copertina FORMA AI](projects/forma-ai/assets/portfolio-cover-2026.webp)](projects/forma-ai/)<br>**[FORMA AI](projects/forma-ai/)**<br>Fitness & AI · Demo pubblica<br>[▶ Demo live](https://giovannidelgaudio1994.github.io/forma-ai/) | [![Copertina DriveGlass](projects/driveglass/assets/portfolio-cover-2026.webp)](projects/driveglass/)<br>**[DriveGlass](projects/driveglass/)**<br>Garage digitale · Flutter · In sviluppo<br>[📂 Scheda progetto](projects/driveglass/) |
+| [![Copertina FORMA AI](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg)](projects/forma-ai/)<br>**[FORMA AI](projects/forma-ai/)**<br>Fitness & AI · Demo pubblica<br>[▶ Demo live](https://giovannidelgaudio1994.github.io/forma-ai/) | [![Copertina DriveGlass](projects/driveglass/assets/portfolio-cover-2026.webp)](projects/driveglass/)<br>**[DriveGlass](projects/driveglass/)**<br>Garage digitale · Flutter · In sviluppo<br>[📂 Scheda progetto](projects/driveglass/) |
 | [![Copertina Fit Zone](projects/fit-zone/assets/copertina-fit-zone-originale-2026.webp)](projects/fit-zone/)<br>**[Fit Zone](projects/fit-zone/)**<br>Gestionale palestra originale · PHP + MySQL<br>[▶ Demo interattiva](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) · [☕ Codice PHP](projects/fit-zone/source/) | [![Copertina Cilento Platform](projects/cilento-platform/assets/portfolio-cover.svg)](projects/cilento-platform/)<br>**[Cilento Platform](projects/cilento-platform/)**<br>Turismo, territorio & backend · In sviluppo<br>[📂 Scheda progetto](projects/cilento-platform/) |
 
 **Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) · presentazione in preparazione.
