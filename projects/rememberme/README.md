@@ -98,6 +98,14 @@ Gli elaborati riportano **Francesco Sciretta, Giovanni Del Gaudio e Felice Napol
 
 **Portfolio di Giovanni Del Gaudio** · Progetto realizzato in gruppo · I contributi e le componenti di terzi restano soggetti ai diritti dei rispettivi autori.
 
+## 🎞️ Prototipo animato — iRem
+
+La demo animata è stata ricostruita a partire dalle schermate originali di `Prototipo (2).pptx`. Ripercorre sei momenti del prototipo: splash screen, scelta tra Eventi e Ricordi, inserimento di un evento, lista degli eventi, galleria e visualizzazione di una foto-ricordo.
+
+**È un'animazione dimostrativa**, non una registrazione di un'app Android in esecuzione. [Apri la cartella pubblica destinata agli asset](assets/README.md).
+
+> Il file GIF è già stato generato, ma **non è ancora ospitato nella repository**: la sezione non mostra un link immagine inesistente. Verrà visualizzato direttamente qui non appena il file sarà caricato come `assets/rememberme-demo.gif`.
+
 ## 📚 Documentazione del progetto
 
 Al termine della presentazione sono disponibili due approfondimenti ricavati **dai documenti universitari originali**:
