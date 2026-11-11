@@ -62,96 +62,27 @@ Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle
 
 ## 🚀 Progetti personali
 
-Applicazioni indipendenti e prototipi in sviluppo, con presentazioni pubbliche e codice proprietario protetto.
+**Applicazioni e prototipi indipendenti**, sviluppati per sperimentare tecnologie e creare prodotti concreti. Apri una copertina per visualizzare la cartella con la presentazione pubblica del progetto.
 
-### 🏋️ [FORMA AI](https://github.com/GiovanniDelGaudio1994/forma-ai)
-**Piattaforma fitness con funzionalità AI — Demo disponibile**
+| | |
+|:--|:--|
+| [![Copertina FORMA AI](projects/forma-ai/assets/portfolio-cover.svg)](projects/forma-ai/)<br>**[FORMA AI](projects/forma-ai/)**<br>Fitness & AI · Demo pubblica<br>[▶ Demo live](https://giovannidelgaudio1994.github.io/forma-ai/) | [![Copertina DriveGlass](projects/driveglass/assets/portfolio-cover.svg)](projects/driveglass/)<br>**[DriveGlass](projects/driveglass/)**<br>Garage digitale · Flutter · In sviluppo<br>[📂 Scheda progetto](projects/driveglass/) |
+| [![Copertina Fit Zone](projects/fit-zone/assets/portfolio-cover.svg)](projects/fit-zone/)<br>**[Fit Zone](projects/fit-zone/)**<br>Gestionale palestra · PHP + MongoDB<br>[📂 Scheda progetto](projects/fit-zone/) | [![Copertina Cilento Platform](projects/cilento-platform/assets/portfolio-cover.svg)](projects/cilento-platform/)<br>**[Cilento Platform](projects/cilento-platform/)**<br>Turismo, territorio & backend · In sviluppo<br>[📂 Scheda progetto](projects/cilento-platform/) |
 
-Applicazione *local-first* con anteprima interattiva di allenamenti, progressi, alimentazione e coach digitale. In progettazione un Exercise Atlas con schede tecniche e concept anatomici 3D.
-
-`JavaScript` · `Node.js` · `PWA` · `Testing`
-
-[**▶ Prova la demo interattiva**](https://giovannidelgaudio1994.github.io/forma-ai/) · [Repository della demo](https://github.com/GiovanniDelGaudio1994/forma-ai)
-
-> Demo con dati fittizi. Alcune funzionalità AI sono anteprime; il codice completo resta privato.
-
----
-
-### 🚘 [DriveGlass](projects/driveglass/README.md)
-**Garage digitale e gestione veicoli — In sviluppo**
-
-App per gestione di veicoli, chilometraggio, manutenzioni, scadenze e documenti. Include sperimentazioni con API e sincronizzazione cloud.
-
-`Flutter` · `Dart` · `SQLite` · `TypeScript`
-
-[**📂 Esplora DriveGlass**](projects/driveglass/README.md)
-
----
-
-### 🏢 [Fit Zone](projects/fit-zone/README.md)
-**Gestionale palestra — Progetto personale**
-
-Software di gestione palestra sviluppato utilizzando PHP e MongoDB.
-
-`PHP` · `MongoDB`
-
-[**📂 Esplora Fit Zone**](projects/fit-zone/README.md)
-
----
-
-### 🗺️ [Cilento Platform](projects/cilento-platform/README.md)
-**Piattaforma per territorio e turismo — In sviluppo**
-
-Prototipo dedicato a informazioni territoriali, strutture ricettive, aree camping e simulazioni di prenotazione.
-
-`Web Development` · `Backend` · `Database`
-
-[**📂 Esplora Cilento Platform**](projects/cilento-platform/README.md)
-
-**Altro progetto personale:** [Gestionale B&B](projects/gestionale-bnb/README.md), in fase di revisione.
+**Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) · presentazione in preparazione.
 
 ---
 
 ## 🎓 Progetti universitari
 
-Elaborati realizzati durante il percorso di Informatica: progettazione, applicazioni e valutazione dell'usabilità.
+**Analisi, progettazione, sviluppo e valutazione.** Qui trovi i progetti collegati ai corsi universitari, con relazioni, metodologie e materiali dimostrativi dove disponibili.
 
-### 💊 [GestioneFarmacia](projects/gestione-farmacia/README.md)
-**Esame di Basi di Dati · A.A. 2024/2025**
+| | |
+|:--|:--|
+| [![Copertina GestioneFarmacia](projects/gestione-farmacia/assets/portfolio-cover.svg)](projects/gestione-farmacia/)<br>**[GestioneFarmacia](projects/gestione-farmacia/)**<br>Basi di Dati · Java + MySQL · Codice privato<br>[▶ Demo simulata](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/) | [![Copertina e-Wine](projects/e-wine/assets/portfolio-cover.svg)](projects/e-wine/)<br>**[e-Wine](projects/e-wine/)**<br>Tecnologie Web e Ingegneria del Software<br>[📂 Documentazione](projects/e-wine/) |
+| [![Copertina RememberMe · iRem](projects/rememberme/assets/portfolio-cover.svg)](projects/rememberme/)<br>**[RememberMe · iRem](projects/rememberme/)**<br>Interazione Uomo–Macchina · Progetto di gruppo<br>[▶ Prototipo animato](projects/rememberme/assets/irem-prototipo-animato.svg) |   |
 
-Progetto che comprende modello E-R, schema relazionale, normalizzazione e applicazione Java Swing per operazioni gestionali su una farmacia, con database MySQL.
-
-`Java` · `Swing` · `MySQL` · `JDBC` · `DAO`
-
-[**📂 Documentazione del progetto**](projects/gestione-farmacia/README.md) · [**▶ Demo interattiva simulata**](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/)
-
-> Codice sorgente privato. La demo è una ricostruzione con dati inventati, non l'eseguibile Java originale.
-
----
-
-### 🍷 [e-Wine](projects/e-wine/README.md)
-**Tecnologie Software per il Web · Ingegneria del Software**
-
-Progetto universitario di sviluppo web e progettazione software con Java JSP/Servlet, interfaccia Bootstrap 4 e database MySQL.
-
-`Java` · `JSP/Servlet` · `Bootstrap 4` · `MySQL`
-
-[**📂 Esplora e-Wine**](projects/e-wine/README.md)
-
----
-
-### 🧠 [RememberMe — iRem](projects/rememberme/README.md)
-**Interazione Uomo–Macchina (IUM) · Progetto di gruppo**
-
-Analisi dei bisogni degli utenti, personas, casi d'uso, paper sketch, mockup e valutazione di usabilità. Prototipo universitario storico di un'app per eventi e foto-ricordo.
-
-[![Copertina di RememberMe iRem](projects/rememberme/assets/irem-cover.svg)](projects/rememberme/README.md)
-
-`Human–Computer Interaction` · `User-Centered Design` · `Prototyping` · `Usability Testing`
-
-[**▶ Guarda il prototipo animato**](projects/rememberme/assets/irem-prototipo-animato.svg) · [**📂 Leggi documentazione e progetto**](projects/rememberme/README.md)
-
-> L'animazione è una ricostruzione dimostrativa delle schermate del prototipo PowerPoint, non una registrazione dell'app Android.
+> **Come consultare il portfolio:** clicca sulla copertina o sul nome per aprire la **cartella pubblica** del progetto; usa i link «Demo» per vedere le simulazioni. Le schede del portfolio non implicano che esista una repository pubblica separata per ogni progetto. I codici sorgente proprietari rimangono privati.
 
 ---
 
