@@ -11,7 +11,7 @@
 **Progetto applicazioni web e mobile e trasformo idee in prototipi concreti.**  
 **I build thoughtful software, learn by shipping, and document the journey.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-151a24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniDelGaudio1994?tab=repositories)
+[![Sito personale](https://img.shields.io/badge/Sito_personale-Visita_il_portfolio-2388FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/)
 [![Live Demo](https://img.shields.io/badge/FORMA_AI-Live_Demo-C4FF77?style=for-the-badge&logo=googlechrome&logoColor=11151A)](https://giovannidelgaudio1994.github.io/forma-ai/)
 [![Opportunity](https://img.shields.io/badge/Open_to-Junior_Developer_Roles-9D8AFF?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/GiovanniDelGaudio1994)
 
@@ -21,13 +21,14 @@
 
 ## ✦ Chi sono
 
-Sono uno studente di **Informatica** vicino alla conclusione del percorso universitario e sto costruendo un portfolio per iniziare a lavorare nello **sviluppo software**.
+Sono uno studente di **Informatica presso l'Università degli Studi di Salerno**, vicino alla conclusione del percorso universitario e sto costruendo un portfolio per iniziare a lavorare nello **sviluppo software**.
 
 Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle **API**, dall'interfaccia alle verifiche automatiche. Sto lavorando a progetti web, mobile e a prototipi che integrano l'intelligenza artificiale, con particolare attenzione a usabilità, architettura e privacy.
 
 - 🔨 **Current focus:** FORMA AI e DriveGlass
 - 📚 **Learning by building:** Flutter, Dart, API backend e test automatizzati
 - 🎯 **Career goal:** prima opportunità come **Junior Software Developer**
+- 🌐 **Sito personale:** [portfolio di Giovanni Del Gaudio](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/) — progetti, competenze e contatti
 - 🤝 **Principio di lavoro:** documentare ciò che funziona, dichiarare cosa è sperimentale, migliorare un passo alla volta
 
 ## ✦ Il mio stack
