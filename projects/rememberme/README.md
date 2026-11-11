@@ -8,6 +8,12 @@
 
 > Negli elaborati accademici il nome compare anche come **iRem**. RememberMe è il nome usato nel portfolio per presentare questo lavoro.
 
+## ▶ Visita il prototipo sul sito personale
+
+**[Apri la demo navigabile di RememberMe / iRem](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/demos/irem/)**
+
+La visita guidata mostra otto schermate dei **mockup e paper sketch autentici** della documentazione del gruppo. È accessibile anche direttamente dalla sezione *Progetti universitari* del [portfolio personale](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/#progetti) senza lasciare la pagina. Non è un APK Android eseguibile e non replica un backend.
+
 ## 1. Obiettivo del progetto
 
 L'esercitazione universitaria affronta la progettazione di un'app capace di aiutare persone con difficoltà nella gestione dei ricordi e degli impegni quotidiani. La relazione studia in particolare scenari riferiti a persone con Alzheimer. L'obiettivo è **didattico e progettuale**: il software non è un dispositivo sanitario e non è dimostrata un'efficacia clinica.
