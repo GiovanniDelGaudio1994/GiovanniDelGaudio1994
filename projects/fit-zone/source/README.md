@@ -1,4 +1,4 @@
-[![Fit Zone — copertina del progetto](https://raw.githubusercontent.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/main/projects/fit-zone/assets/fit-zone-cover.webp)](https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/tree/main/projects/fit-zone)
+[![Fit Zone — copertina del progetto](https://raw.githubusercontent.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/main/projects/fit-zone/assets/originale-homepage.webp)](https://github.com/GiovanniDelGaudio1994/GiovanniDelGaudio1994/tree/main/projects/fit-zone)
 
 # 🏋️ Fit Zone
 
@@ -6,9 +6,9 @@
 
 Fit Zone è una web app personale progettata per gestire informazioni di una palestra, corsi, utenti, prenotazioni, abbonamenti e strumenti per il personale amministrativo. Questo repository distribuisce una **versione storica ripulita per la revisione tecnica**, non un servizio pronto per produzione. Alcune parti sono da completare.
 
-**[▶ Demo interattiva illustrativa](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [📸 Galleria del progetto](../)
+**[▶ Anteprima del frontend originale](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [📸 Galleria del progetto](../)
 
-La demo frontend usa dati sintetici ed è separata dal progetto PHP/MySQL; le sue anteprime non vanno confuse con screenshot dell'applicazione storica.
+Le immagini del portfolio mostrano il **frontend originale** ricavato dai template PHP, dai CSS e dalle fotografie contenuti nello ZIP del progetto. I record che provenivano dal database sono sostituiti da dati fittizi. GitHub Pages non può eseguire il backend PHP/MySQL: l'anteprima è di sola consultazione e non autentica utenti né salva prenotazioni.
 
 ## Funzionalità documentate nel codice
 
