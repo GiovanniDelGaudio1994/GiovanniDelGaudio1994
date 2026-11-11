@@ -8,7 +8,7 @@
 
 Sviluppo applicazioni web e mobile, sperimento l'AI e realizzo progetti software concreti.
 
-[🌐 Sito personale](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio1994.github.io/forma-ai/)
+[🌐 Sito personale](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio1994.github.io/forma-ai/forma-ai-demo/)
 
 </div>
 
@@ -35,7 +35,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="projects/forma-ai/">FORMA AI</a></strong></p>
 <p><strong>Fitness · Flutter · AI</strong></p>
 <p>App fitness e allenamento con funzionalità AI in evoluzione.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
+<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/forma-ai-demo/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
