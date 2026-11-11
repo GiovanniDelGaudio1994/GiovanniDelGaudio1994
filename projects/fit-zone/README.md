@@ -28,6 +28,20 @@ Nell'anteprima puoi sfogliare **homepage, corsi, attività, istruttori, calendar
 
 **Nota sulle fotografie:** provengono dallo ZIP originale condiviso dall'autore e sono state compresse per il web. Le rispettive licenze e attribuzioni andranno verificate prima di una pubblicazione commerciale.
 
+[![Apri la demo Fit Zone](https://img.shields.io/badge/DEMO-INTERATTIVA-24b47e?style=for-the-badge&logo=githubpages&logoColor=white)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) [![Codice PHP](https://img.shields.io/badge/CODICE-PHP%20%2B%20MySQL-324c56?style=for-the-badge)](source/)
+
+> **Demo di portfolio:** ricostruzione HTML/CSS/JavaScript dell'interfaccia e dei flussi presenti nel codice PHP, con dati sintetici. Non esegue PHP, non accede al database e non gestisce pagamenti o registrazioni reali.
+
+## Anteprima dell'interfaccia
+
+| Panoramica demo | Catalogo corsi |
+|:--:|:--:|
+| [![Home demo](assets/anteprima-home.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) | [![Corsi demo](assets/anteprima-corsi.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#corsi) |
+| Prenotazioni simulate | Layout smartphone |
+| [![Prenotazioni demo](assets/anteprima-prenotazioni.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#prenotazioni) | [![Versione mobile](assets/anteprima-mobile.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#corsi) |
+
+Le anteprime sopra derivano dalla **demo web ricostruita e testata**, non sono schermate catturate da un server PHP/MySQL in esecuzione. Le funzioni rappresentate riflettono le sezioni del progetto originale; i numeri, i nomi e le prenotazioni sono dimostrativi.
+
 ## Esplora il progetto
 
 - **[📂 Sfoglia il codice sorgente PHP](source/)** — codice reale del progetto, ripulito prima della pubblicazione.
