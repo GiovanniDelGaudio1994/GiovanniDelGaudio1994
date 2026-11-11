@@ -151,7 +151,7 @@ Progetto universitario di analisi e progettazione di un'app di promemoria.
 
 E-commerce di vini sviluppato con Java, JSP, Servlet, Bootstrap e MySQL. Presentazione pubblica, **codice applicativo riservato**.
 
-[📄 Scheda progetto](projects/e-wine/)
+[▶ Demo navigabile](https://giovannidelgaudio1994.github.io/forma-ai/ewine-demo/) · [📄 Scheda progetto](projects/e-wine/)
 
 </td>
 <td width="50%" valign="top">
