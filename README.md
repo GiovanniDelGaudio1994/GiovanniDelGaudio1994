@@ -12,6 +12,7 @@
 **I build thoughtful software, learn by shipping, and document the journey.**
 
 [![Sito personale](https://img.shields.io/badge/Sito_personale-Visita_il_portfolio-2388FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilo_professionale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/)
 [![Live Demo](https://img.shields.io/badge/FORMA_AI-Live_Demo-C4FF77?style=for-the-badge&logo=googlechrome&logoColor=11151A)](https://giovannidelgaudio1994.github.io/forma-ai/)
 [![Opportunity](https://img.shields.io/badge/Open_to-Junior_Developer_Roles-9D8AFF?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/GiovanniDelGaudio1994)
 
