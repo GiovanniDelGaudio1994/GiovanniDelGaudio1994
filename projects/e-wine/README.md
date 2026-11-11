@@ -1,4 +1,4 @@
-[![Copertina e-Wine](assets/portfolio-cover.svg)](./)
+<a href="https://giovannidelgaudio1994.github.io/forma-ai/ewine-demo/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/ewine-cover.jpg" alt="Copertina originale e-Wine: sito e-commerce di vini" width="800"></a>
 
 # e-Wine — E-commerce universitario
 
