@@ -90,7 +90,7 @@ Gli elaborati riportano **Francesco Sciretta, Giovanni Del Gaudio e Felice Napol
 ## 9. Stato e limiti
 
 - **Progetto universitario storico**, non prodotto in produzione.
-- **Mockup autentici disponibili nel materiale originale**, da caricare nella cartella pubblica `assets/`.
+- **Mockup autentici disponibili nel materiale originale**; anteprima animata pubblicata nella cartella `assets/`.
 - **Sorgenti non ancora pubblicati**, in attesa di verifica della provenienza e delle licenze di terzi.
 - Nessuna promessa di efficacia clinica.
 
@@ -100,11 +100,15 @@ Gli elaborati riportano **Francesco Sciretta, Giovanni Del Gaudio e Felice Napol
 
 ## 🎞️ Prototipo animato — iRem
 
-La demo animata è stata ricostruita a partire dalle schermate originali di `Prototipo (2).pptx`. Ripercorre sei momenti del prototipo: splash screen, scelta tra Eventi e Ricordi, inserimento di un evento, lista degli eventi, galleria e visualizzazione di una foto-ricordo.
+<div align="center">
+  <a href="assets/irem-prototipo-animato.svg" title="Visualizza la demo animata di iRem">
+    <img src="assets/irem-prototipo-animato.svg" width="540" alt="Animazione di sei schermate che mostra il percorso del prototipo iRem: home, menu, inserimento e gestione eventi, ricordi e foto" />
+  </a>
+</div>
 
-**È un'animazione dimostrativa**, non una registrazione di un'app Android in esecuzione. [Apri la cartella pubblica destinata agli asset](assets/README.md).
+**[▶ Apri l'anteprima animata del prototipo](assets/irem-prototipo-animato.svg)**
 
-> Il file GIF è già stato generato, ma **non è ancora ospitato nella repository**: la sezione non mostra un link immagine inesistente. Verrà visualizzato direttamente qui non appena il file sarà caricato come `assets/rememberme-demo.gif`.
+La sequenza ripercorre le schermate e i flussi dell'originale `Prototipo (2).pptx`. È una ricostruzione illustrativa animata in formato SVG (non una registrazione dell'app Android e non una GIF originale esportata dal PowerPoint). È disponibile anche una GIF preparata separatamente, non ancora ospitata su GitHub.
 
 ## 📚 Documentazione del progetto
 
