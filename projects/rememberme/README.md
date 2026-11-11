@@ -1,3 +1,5 @@
+[![Copertina rememberme](assets/portfolio-cover.svg)](./)
+
 # 🧠 RememberMe (iRem)
 
 ### Progetto universitario di Interazione Uomo–Macchina (IUM)
