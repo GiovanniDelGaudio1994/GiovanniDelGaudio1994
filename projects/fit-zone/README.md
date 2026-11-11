@@ -1,4 +1,4 @@
-[![Copertina Fit Zone](assets/originale-homepage.webp)](./)
+[![Fit Zone — copertina portfolio](assets/fit-zone-cover.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)
 
 # 🏋️ Fit Zone — Gestionale web per palestra
 
