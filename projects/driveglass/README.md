@@ -1,3 +1,5 @@
+[![Copertina driveglass](assets/portfolio-cover.svg)](./)
+
 # DriveGlass
 
 Progetto personale in sviluppo per la gestione di veicoli, manutenzioni, scadenze e documenti. Stack: Flutter, Dart, SQLite; componenti cloud e TypeScript in sperimentazione. Il codice non è pubblico.
