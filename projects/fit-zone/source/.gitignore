@@ -1,0 +1,16 @@
+# Database dumps with real users/accounts are never committed
+*.sql.gz
+*.sql.bak
+*dump*.sql
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+/uploads/*
+!/uploads/.gitkeep
+/script/uploads/*
+!/script/uploads/.gitkeep

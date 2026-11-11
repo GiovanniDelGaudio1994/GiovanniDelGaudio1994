@@ -67,7 +67,7 @@ Mi appassionano applicazioni che risolvono problemi reali: dal **database** alle
 | | |
 |:--|:--|
 | [![Copertina FORMA AI](projects/forma-ai/assets/portfolio-cover-2026.webp)](projects/forma-ai/)<br>**[FORMA AI](projects/forma-ai/)**<br>Fitness & AI · Demo pubblica<br>[▶ Demo live](https://giovannidelgaudio1994.github.io/forma-ai/) | [![Copertina DriveGlass](projects/driveglass/assets/portfolio-cover-2026.webp)](projects/driveglass/)<br>**[DriveGlass](projects/driveglass/)**<br>Garage digitale · Flutter · In sviluppo<br>[📂 Scheda progetto](projects/driveglass/) |
-| [![Copertina Fit Zone](projects/fit-zone/assets/portfolio-cover.svg)](projects/fit-zone/)<br>**[Fit Zone](projects/fit-zone/)**<br>Gestionale palestra · PHP + MongoDB<br>[📂 Scheda progetto](projects/fit-zone/) | [![Copertina Cilento Platform](projects/cilento-platform/assets/portfolio-cover.svg)](projects/cilento-platform/)<br>**[Cilento Platform](projects/cilento-platform/)**<br>Turismo, territorio & backend · In sviluppo<br>[📂 Scheda progetto](projects/cilento-platform/) |
+| [![Copertina Fit Zone](projects/fit-zone/assets/portfolio-cover.svg)](projects/fit-zone/)<br>**[Fit Zone](projects/fit-zone/)**<br>Gestionale palestra · PHP + MySQL<br>[📂 Progetto e documentazione](projects/fit-zone/) · [☕ Codice sorgente pubblico](projects/fit-zone/source/) | [![Copertina Cilento Platform](projects/cilento-platform/assets/portfolio-cover.svg)](projects/cilento-platform/)<br>**[Cilento Platform](projects/cilento-platform/)**<br>Turismo, territorio & backend · In sviluppo<br>[📂 Scheda progetto](projects/cilento-platform/) |
 
 **Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) · presentazione in preparazione.
 
