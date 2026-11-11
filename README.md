@@ -109,11 +109,60 @@ Progetto dedicato al turismo e alla valorizzazione del territorio. In sviluppo.
 
 ## 🎓 Progetti universitari
 
-| Progetto | Ambito | Materiali |
-|:--|:--|:--|
-| **[GestioneFarmacia](projects/gestione-farmacia/)** | Basi di Dati · Java e MySQL | [Demo](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/) · [Codice selezionato](projects/gestione-farmacia/codice-pubblico/) |
-| **[e-Wine](projects/e-wine/)** | Tecnologie Web · Ingegneria del Software | [Documentazione](projects/e-wine/) |
-| **[RememberMe · iRem](projects/rememberme/)** | Interazione Uomo–Macchina | [Prototipo](projects/rememberme/assets/irem-prototipo-animato.svg) |
+Progetti realizzati durante il percorso di Informatica presso **UNISA**. Le copertine portano alle rispettive schede; il codice completo di e-Wine non viene pubblicato.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[<img src="projects/gestione-farmacia/assets/portfolio-cover-2026.webp" alt="Copertina GestioneFarmacia" width="100%"/>](projects/gestione-farmacia/)
+
+**[GestioneFarmacia](projects/gestione-farmacia/)**
+
+**Basi di Dati** · Java, MySQL
+
+Gestionale farmacia con inventario, clienti e gestione dei farmaci.
+
+[▶ Demo pubblica](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/) · [📄 Scheda](projects/gestione-farmacia/)
+
+</td>
+<td width="50%" valign="top">
+
+[<img src="projects/rememberme/assets/portfolio-cover.svg" alt="Copertina RememberMe - iRem" width="100%"/>](projects/rememberme/)
+
+**[RememberMe · iRem](projects/rememberme/)**
+
+**Interazione Uomo–Macchina** · UX, prototipazione
+
+Progetto universitario di analisi e progettazione di un'app di promemoria.
+
+[▶ Prototipo](projects/rememberme/assets/irem-prototipo-animato.svg) · [📄 Scheda](projects/rememberme/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[<img src="projects/e-wine/assets/portfolio-cover.svg" alt="Copertina e-Wine" width="100%"/>](projects/e-wine/)
+
+**[e-Wine](projects/e-wine/)**
+
+**Tecnologie Software per il Web · Ingegneria del Software**
+
+E-commerce di vini sviluppato con Java, JSP, Servlet, Bootstrap e MySQL. Presentazione pubblica, **codice applicativo riservato**.
+
+[📄 Scheda progetto](projects/e-wine/)
+
+</td>
+<td width="50%" valign="top">
+
+**🔒 Codice e-Wine riservato**
+
+Il progetto applicativo completo non è distribuito pubblicamente. La presentazione del lavoro illustra architettura, ruoli, funzionalità e competenze, senza rivelare i sorgenti.
+
+</td>
+</tr>
+</table>
 
 ---
 
