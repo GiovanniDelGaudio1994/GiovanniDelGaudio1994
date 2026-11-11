@@ -1,3 +1,5 @@
+[![Copertina gestione-farmacia](assets/portfolio-cover.svg)](./)
+
 # GestioneFarmacia — Progetto universitario di Basi di Dati
 
 **Università degli Studi di Salerno · A.A. 2024/2025**
