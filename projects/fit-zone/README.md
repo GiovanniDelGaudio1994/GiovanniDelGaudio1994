@@ -10,11 +10,11 @@ Fit Zone è una web app sviluppata come progetto personale, dedicata alla gestio
 
 **[▶ Apri l'anteprima del sito originale](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [☕ Consulta il vero codice PHP/MySQL](source/)
 
-Questa presentazione mostra **l'interfaccia realmente progettata e scritta per Fit Zone**, ricavata dai file originali `index.php`, `corsi.php`, `login.php`, `register.php` e dalle altre pagine del progetto. Sono mantenuti **fotografie, impaginazione, colori arancioni, tipografia e fogli CSS originali**. Non si tratta più del dashboard scuro ricostruito in precedenza.
+Questa presentazione documenta **il progetto Fit Zone e la sua evoluzione grafica**, ricavata dai file originali `index.php`, `corsi.php`, `login.php`, `register.php` e dalle altre pagine del progetto. La galleria qui sotto conserva **schermate delle pagine originali**, mentre la homepage e il catalogo pubblicati sono stati aggiornati con un layout arancione/nero e responsive, coerente con la copertina. Le altre pagine della demo riprendono i template originari.
 
 > **Limite tecnico:** GitHub Pages visualizza HTML/CSS/JavaScript, ma non esegue PHP e MySQL. Le schermate sono prodotte dai template PHP originali con **dati dimostrativi**, senza account o contatti reali. Accesso, registrazione, prenotazione e pagamenti non salvano informazioni. Non è una versione PHP/MySQL in produzione.
 
-| Homepage originale | Catalogo corsi originale |
+| Homepage del progetto originale | Catalogo del progetto originale |
 |---|---|
 | [![Screenshot della homepage originale FitZone](assets/originale-homepage.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) | [![Screenshot dell'area corsi originale FitZone](assets/originale-corsi.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/corsi.html) |
 
@@ -32,15 +32,13 @@ Nell'anteprima puoi sfogliare **homepage, corsi, attività, istruttori, calendar
 
 > **Demo di portfolio:** ricostruzione HTML/CSS/JavaScript dell'interfaccia e dei flussi presenti nel codice PHP, con dati sintetici. Non esegue PHP, non accede al database e non gestisce pagamenti o registrazioni reali.
 
-## Anteprima dell'interfaccia
+## Esperienza responsive
 
-| Panoramica demo | Catalogo corsi |
-|:--:|:--:|
-| [![Home demo](assets/anteprima-home.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/) | [![Corsi demo](assets/anteprima-corsi.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#corsi) |
-| Prenotazioni simulate | Layout smartphone |
-| [![Prenotazioni demo](assets/anteprima-prenotazioni.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#prenotazioni) | [![Versione mobile](assets/anteprima-mobile.webp)](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/#corsi) |
+La demo Fit Zone usa lo stesso sito per **desktop, iPad/tablet e smartphone iPhone o Android (inclusi Samsung)**: le griglie si adattano alla larghezza dello schermo, la navigazione passa al menu mobile quando serve e i pulsanti mantengono dimensioni comode per il touch.
 
-Le anteprime sopra derivano dalla **demo web ricostruita e testata**, non sono schermate catturate da un server PHP/MySQL in esecuzione. Le funzioni rappresentate riflettono le sezioni del progetto originale; i numeri, i nomi e le prenotazioni sono dimostrativi.
+**[Apri il sito sul tuo dispositivo](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/)** · [Catalogo corsi](https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/corsi.html)
+
+Le fotografie della sezione precedente documentano il progetto originale; la demo attuale utilizza una **homepage e un catalogo aggiornati** nello stile arancione/nero della copertina. La demo non esegue il backend PHP/MySQL e non registra prenotazioni effettive.
 
 ## Esplora il progetto
 
