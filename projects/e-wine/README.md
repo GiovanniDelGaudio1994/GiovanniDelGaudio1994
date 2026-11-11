@@ -1,3 +1,5 @@
+[![Copertina e-wine](assets/portfolio-cover.svg)](./)
+
 # e-Wine
 
 Progetto universitario dei corsi Tecnologie Software per il Web e Ingegneria del Software. Tecnologie: Java, JSP, Servlet, Bootstrap 4, MySQL. Documentazione e screenshot in revisione.
