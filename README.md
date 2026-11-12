@@ -8,7 +8,7 @@
 
 Sviluppo applicazioni web e mobile, sperimento l'AI e realizzo progetti software concreti.
 
-[🌐 Sito personale](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio1994.github.io/forma-ai/forma-ai-demo/)
+[🌐 Sito personale](https://giovannidelgaudio.it/) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio.it/forma-ai-demo/)
 
 </div>
 
@@ -35,7 +35,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="projects/forma-ai/">FORMA AI</a></strong></p>
 <p><strong>Fitness · Flutter · AI</strong></p>
 <p>App fitness e allenamento con funzionalità AI in evoluzione.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/forma-ai-demo/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
+<p><a href="https://giovannidelgaudio.it/forma-ai-demo/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
@@ -52,14 +52,14 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="projects/fit-zone/">Fit Zone</a></strong></p>
 <p><strong>PHP · MySQL</strong></p>
 <p>Gestionale palestra: corsi, abbonamenti e prenotazioni.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/fit-zone-demo/">▶ Demo pubblica</a> · <a href="projects/fit-zone/source/">Codice PHP</a></p>
+<p><a href="https://giovannidelgaudio.it/fit-zone-demo/">▶ Demo pubblica</a> · <a href="projects/fit-zone/source/">Codice PHP</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/signalscope-cover.svg" alt="Copertina SignalScope" width="100%"></a>
 <p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/">SignalScope / Scraper</a></strong></p>
 <p><strong>Python · SQLite</strong></p>
 <p>Rileva e documenta modifiche a pagine pubbliche. Motore CLI e demo interattiva.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/signalscope-demo/">▶ Demo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice</a></p>
+<p><a href="https://giovannidelgaudio.it/signalscope-demo/">▶ Demo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice</a></p>
 </td>
 </tr>
 
@@ -69,7 +69,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Meteo Bash 2D</a></strong></p>
 <p><strong>Bash · Open-Meteo</strong></p>
 <p>Meteo e previsioni in stile terminale, con demo web.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/meteo-bash2d-demo/">▶ Live meteo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Codice</a></p>
+<p><a href="https://giovannidelgaudio.it/meteo-bash2d-demo/">▶ Live meteo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Codice</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/cilento-platform/"><img src="projects/cilento-platform/assets/portfolio-cover.svg" alt="Copertina Cilento Platform" width="100%"></a>
@@ -80,6 +80,21 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 </td>
 </tr>
 
+<tr>
+<td width="50%" valign="top">
+<a href="projects/legacybridge/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/legacybridge-cover.svg" alt="Copertina LegacyBridge — Hardware Compatibility Lab" width="100%"></a>
+<p><strong><a href="projects/legacybridge/">LegacyBridge</a></strong></p>
+<p><strong>C++ · Hardware research · PowerShell · Open Core</strong></p>
+<p>Laboratorio per vecchi PC: diagnostica non invasiva, studio delle istruzioni CPU e primo caso reale HP 550.</p>
+<p><a href="https://giovannidelgaudio.it/legacybridge-demo/">▶ Demo interattiva</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/">Codice AGPLv3</a></p>
+</td>
+<td width="50%" valign="top">
+<p><strong>HP 550 — Case Study #001</strong></p>
+<p>Core 2 Duo T5670 · Windows 10 x86 già avviato · architettura CPU x64 confermata · test Linux Live in preparazione.</p>
+<p><strong>Metodo:</strong> risultati osservati, diagnostica read-only, dati anonimizzati.</p>
+<p><a href="projects/legacybridge/">📘 Scheda tecnica</a></p>
+</td>
+</tr>
 </table>
 
 **Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) — scheda in preparazione.
@@ -97,7 +112,7 @@ Progetti del percorso di Informatica presso **UNISA**, con copertine e materiali
 <p><strong><a href="projects/gestione-farmacia/">GestioneFarmacia</a></strong></p>
 <p><strong>Basi di Dati · Java / MySQL</strong></p>
 <p>Gestionale farmacia con inventario, clienti e farmaci.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/">▶ Demo</a> · <a href="projects/gestione-farmacia/">Scheda</a></p>
+<p><a href="https://giovannidelgaudio.it/gestione-farmacia-demo/">▶ Demo</a> · <a href="projects/gestione-farmacia/">Scheda</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/rememberme/"><img src="projects/rememberme/assets/portfolio-cover.svg" alt="Copertina RememberMe" width="100%"></a>
@@ -113,7 +128,7 @@ Progetti del percorso di Informatica presso **UNISA**, con copertine e materiali
 <p><strong><a href="projects/e-wine/">e-Wine</a></strong></p>
 <p><strong>Tecnologie per il Software Web · Ingegneria del Software</strong></p>
 <p>E-commerce universitario Java/JSP, Servlet, Bootstrap 4 e MySQL. Demo pubblica navigabile; codice applicativo completo riservato.</p>
-<p><a href="https://giovannidelgaudio1994.github.io/forma-ai/ewine-demo/">▶ Demo navigabile</a> · <a href="projects/e-wine/">Scheda progetto</a></p>
+<p><a href="https://giovannidelgaudio.it/ewine-demo/">▶ Demo navigabile</a> · <a href="projects/e-wine/">Scheda progetto</a></p>
 </td>
 </tr>
 </table>
@@ -141,7 +156,7 @@ Le tecnologie sono maturate attraverso progetti personali e studio, con livelli 
 
 ### Hai un progetto o vuoi collaborare?
 
-[**Visita il portfolio completo**](https://giovannidelgaudio1994.github.io/forma-ai/portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/)
+[**Visita il portfolio completo**](https://giovannidelgaudio.it/) · [**LinkedIn**](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/)
 
 <sub>© 2026 Giovanni Del Gaudio · Progetti originali e contributi di terze parti attribuiti nelle rispettive schede.</sub>
 
