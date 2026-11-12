@@ -24,6 +24,12 @@ Studio **Informatica presso l'Università degli Studi di Salerno** e sono vicino
 
 ---
 
+## 🌍 For international visitors
+
+I'm a Computer Science student and aspiring software developer building practical projects in **Flutter, Dart, Java, Python, PHP, Node.js and systems programming**. Explore my [English portfolio](https://giovannidelgaudio.it/en/), or browse [LegacyBridge in English](projects/legacybridge/README.en.md), my experimental project dedicated to responsibly researching legacy hardware compatibility.
+
+---
+
 ## 🚀 Progetti personali
 
 Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il progetto o scegli la demo per provarlo.
@@ -86,7 +92,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="projects/legacybridge/">LegacyBridge</a></strong></p>
 <p><strong>C++ · Hardware research · PowerShell · Open Core</strong></p>
 <p>Laboratorio per vecchi PC: diagnostica non invasiva, studio delle istruzioni CPU e primo caso reale HP 550.</p>
-<p><a href="https://giovannidelgaudio.it/legacybridge-demo/">▶ Demo interattiva</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/">Codice AGPLv3</a></p>
+<p><a href="https://giovannidelgaudio.it/legacybridge-demo/">▶ Demo IT</a> · <a href="https://giovannidelgaudio.it/legacybridge-demo/en/">▶ Demo EN</a> · <a href="projects/legacybridge/README.en.md">🇬🇧 English project brief</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/">Codice AGPLv3</a></p>
 </td>
 <td width="50%" valign="top">
 <p><strong>HP 550 — Case Study #001</strong></p>
