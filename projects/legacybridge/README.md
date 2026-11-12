@@ -1,5 +1,7 @@
 # LegacyBridge — Hardware Compatibility Lab
 
+🇮🇹 **Italiano** · [🇬🇧 English](README.en.md)
+
 <div align="center">
   <a href="https://giovannidelgaudio.it/legacybridge-demo/">
     <img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/legacybridge-cover.svg" alt="LegacyBridge: notebook classico del 2008 e ponte luminoso verso il software moderno" width="100%"/>
