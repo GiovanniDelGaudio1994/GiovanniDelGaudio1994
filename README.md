@@ -30,6 +30,18 @@ I'm a Computer Science student and aspiring software developer building practica
 
 ---
 
+## 🔎 Da dove iniziare — 3 progetti da valutare
+
+| Progetto | Competenze visibili | Evidenza |
+| --- | --- | --- |
+| **DriveGlass** | Flutter, Dart, SQLite, esportazione PDF | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) · [Caso studio](projects/driveglass/CASE_STUDY.md) |
+| **SignalScope** | Python, analisi delle modifiche, test automatici | [Codice](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper) · [Caso studio](projects/scraper/CASE_STUDY.md) |
+| **GestioneFarmacia** | Java Swing, MySQL, modello relazionale | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) · [Caso studio](projects/gestione-farmacia/CASE_STUDY.md) |
+
+**Trasparenza:** le demo statiche non eseguono i backend privati. I casi studio distinguono funzionalità dimostrate, limiti e sviluppo futuro.
+
+---
+
 ## 🚀 Progetti personali
 
 📁 **[Indice completo dei progetti: demo pubbliche, sorgenti riservati e licenze](projects/README.md)**
