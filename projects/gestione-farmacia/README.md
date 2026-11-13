@@ -66,3 +66,10 @@ La documentazione dell'esame mostra le schermate della versione originale (login
 ---
 
 **Copyright © 2026 Giovanni Del Gaudio. Tutti i diritti riservati sui contributi originali.** La pubblicazione di un estratto del codice è destinata alla lettura tecnica e non concede una licenza open source.
+
+
+## Licenza e diritti del progetto
+
+**Estratti Java e demo:** diritti riservati sui contributi originali pubblicati per valutazione; non è stata concessa una licenza AGPLv3. Materiali di terzi restano ai rispettivi titolari.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
