@@ -4,11 +4,11 @@
 
 # Ciao, sono Giovanni 👋
 
-**Software Developer in formazione · Studente di Informatica · Laurea a breve**
+**Junior Software Developer · Studente di Informatica (studi in corso)**
 
 Sviluppo applicazioni web e mobile, sperimento l'AI e realizzo progetti software concreti.
 
-[🌐 Sito personale](https://giovannidelgaudio.it/) · [🛠️ Repository del portfolio](https://github.com/GiovanniDelGaudio1994/giovanni-portfolio) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio.it/forma-ai-demo/)
+[🌐 Sito personale](https://giovannidelgaudio.it/) · [📄 CV stampabile](https://www.giovannidelgaudio.it/cv/) · [🛠️ Repository del portfolio](https://github.com/GiovanniDelGaudio1994/giovanni-portfolio) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio.it/forma-ai-demo/)
 
 </div>
 
@@ -41,16 +41,16 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <td width="50%" valign="top">
 <a href="projects/forma-ai/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" alt="Copertina FORMA AI" width="100%"></a>
 <p><strong><a href="projects/forma-ai/">FORMA AI</a></strong></p>
-<p><strong>Fitness · Flutter · AI</strong></p>
-<p>App fitness e allenamento con funzionalità AI in evoluzione.</p>
+<p><strong>Fitness · PWA JavaScript/Node.js · Atlante 3D · AI in sviluppo</strong></p>
+<p>Prototipo fitness local-first con demo PWA, Exercise Atlas e modello 3D illustrativo. Coaching AI avanzato ancora in sviluppo.</p>
 <p><a href="https://giovannidelgaudio.it/forma-ai-demo/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
 <p><strong><a href="projects/driveglass/">DriveGlass</a></strong></p>
 <p><strong>Flutter · Garage digitale</strong></p>
-<p>App Flutter per il garage digitale: manutenzioni, documenti e salvataggio locale. Demo con <strong>video dei test in Full HD (dopo pubblicazione del filmato)</strong> e anteprima del Passaporto digitale PDF; sorgenti applicativi privati.</p>
-<p><a href="https://giovannidelgaudio.it/driveglass-demo/">▶ Demo pubblica e video</a> · <a href="projects/driveglass/">Scheda progetto</a></p>
+<p>App Flutter per il garage digitale: manutenzioni, documenti e salvataggio locale. Demo con <strong>video dei test in Full HD</strong> e anteprima del Passaporto digitale PDF; sorgenti applicativi privati.</p>
+<p><a href="https://giovannidelgaudio.it/driveglass-demo/">▶ Demo pubblica e video</a> · <a href="projects/driveglass/">Scheda progetto</a> · <a href="projects/driveglass/CASE_STUDY.md">Caso studio tecnico</a></p>
 </td>
 </tr>
 
@@ -67,7 +67,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/">SignalScope / Scraper</a></strong></p>
 <p><strong>Python · SQLite</strong></p>
 <p>Rileva e documenta modifiche a pagine pubbliche. Motore CLI e demo interattiva.</p>
-<p><a href="https://giovannidelgaudio.it/signalscope-demo/">▶ Demo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice</a></p>
+<p><a href="https://giovannidelgaudio.it/signalscope-demo/">▶ Demo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice</a> · <a href="projects/scraper/CASE_STUDY.md">Caso studio tecnico</a></p>
 </td>
 </tr>
 
@@ -120,7 +120,7 @@ Progetti del percorso di Informatica presso **UNISA**, con copertine e materiali
 <p><strong><a href="projects/gestione-farmacia/">GestioneFarmacia</a></strong></p>
 <p><strong>Basi di Dati · Java / MySQL</strong></p>
 <p>Gestionale farmacia con inventario, clienti e farmaci.</p>
-<p><a href="https://giovannidelgaudio.it/gestione-farmacia-demo/">▶ Demo</a> · <a href="projects/gestione-farmacia/">Scheda</a></p>
+<p><a href="https://giovannidelgaudio.it/gestione-farmacia-demo/">▶ Demo</a> · <a href="projects/gestione-farmacia/">Scheda</a> · <a href="projects/gestione-farmacia/CASE_STUDY.md">Caso studio tecnico</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="projects/rememberme/"><img src="projects/rememberme/assets/portfolio-cover.svg" alt="Copertina RememberMe" width="100%"></a>
