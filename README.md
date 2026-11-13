@@ -32,6 +32,8 @@ I'm a Computer Science student and aspiring software developer building practica
 
 ## 🚀 Progetti personali
 
+📁 **[Indice completo dei progetti: demo pubbliche, sorgenti riservati e licenze](projects/README.md)**
+
 Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il progetto o scegli la demo per provarlo.
 
 <table>
