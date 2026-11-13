@@ -6,6 +6,8 @@
 
 DriveGlass è un'applicazione per la gestione locale dei veicoli: Garage digitale, informazioni tecniche, manutenzione, scadenze e Document Center. Il design segue la direzione *Liquid Glass*. **Il codice sorgente completo rimane privato** e nessuna funzione remota del veicolo è dichiarata operativa.
 
+[Leggi il caso studio tecnico: scelte, prove e limiti](CASE_STUDY.md)
+
 ## ▶ Demo pubblica con video reale
 
 [![Fotogramma di una registrazione reale di DriveGlass Flutter durante un test locale](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/driveglass-demo/assets/driveglass-real-demo-poster.webp)](https://giovannidelgaudio.it/driveglass-demo/#verifiche)
