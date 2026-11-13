@@ -11,3 +11,10 @@ Progetto denominato `meateo_Bash2D` nell'archivio originale fornito dall'autore.
 - Demo e istruzioni di avvio da aggiungere dopo la verifica.
 
 **Nota:** questa pagina non è ancora una distribuzione eseguibile e non contiene il codice dell'archivio originale.
+
+
+## Licenza e diritti del progetto
+
+**Nuova implementazione Bash originale:** [GNU AGPL-3.0-only](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/projects/meteo-bash2d/LICENSE). Eventuale materiale preesistente di terzi resta sotto la propria licenza.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
