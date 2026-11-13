@@ -1,7 +1,37 @@
-[![Copertina DriveGlass — identica alla copertina del sito personale](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp)](./)
+[![DriveGlass — Smart Vehicle Companion, concept Liquid Glass](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp)](https://giovannidelgaudio.it/driveglass-demo/)
 
-# DriveGlass
+# DriveGlass — Smart Vehicle Companion
 
-Progetto personale in sviluppo per la gestione di veicoli, manutenzioni, scadenze e documenti. Stack: Flutter, Dart, SQLite; componenti cloud e TypeScript in sperimentazione. Il codice non è pubblico.
+**Flutter · Dart · SQLite · Node.js (in sviluppo) · App privata con demo pubblica**
+
+DriveGlass è un'applicazione per la gestione locale dei veicoli: Garage digitale, informazioni tecniche, manutenzione, scadenze e Document Center. Il design segue la direzione *Liquid Glass*. **Il codice sorgente completo rimane privato** e nessuna funzione remota del veicolo è dichiarata operativa.
+
+## ▶ Demo pubblica con video reale
+
+[![Fotogramma di una registrazione reale di DriveGlass Flutter durante un test locale](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/driveglass-demo/assets/driveglass-real-demo-poster.webp)](https://giovannidelgaudio.it/driveglass-demo/#verifiche)
+
+**[Guarda la demo pubblica e il video dell'app](https://giovannidelgaudio.it/driveglass-demo/)** · **[Apri la sezione verifiche](https://giovannidelgaudio.it/driveglass-demo/#verifiche)**
+
+Il filmato è un estratto ottimizzato di una registrazione reale dell'**8 novembre 2026**: mostra l'app Flutter funzionante sul Mac durante test di navigazione e manutenzione. È una prova dell'interfaccia locale, **non** di collegamenti OBD, telemetria live o controlli remoti.
+
+## Funzionalità e stato
+
+| Modulo | Situazione |
+|---|---|
+| Garage multi-veicolo | Implementato e provato localmente |
+| Maintenance Center | Inserimento e salvataggio degli interventi verificati in sviluppo |
+| Dati locali | Persistenza SQLite verificata nei test precedenti |
+| Document Center | Esportazione PDF verificata nei test precedenti |
+| Gallery | Galleria illustrativa di veicoli |
+| Cloud Garage / sincronizzazione | In sviluppo, non dimostrata nel video |
+| Telemetria e comandi remoti | Non disponibili nella demo pubblica |
+
+La demo web è una **presentazione interattiva** separata dall'app proprietaria. Utilizza dati dimostrativi e non salva documenti, targhe, VIN o credenziali.
+
+## Architettura e privacy
+
+- **App privata:** Flutter/Dart, memorizzazione locale e moduli in evoluzione.
+- **Showcase pubblico:** HTML/CSS/JavaScript e video dimostrativo senza sorgenti o database.
+- **Backend:** componenti Node.js in sviluppo; non sono esposti nella demo.
 
 © 2026 Giovanni Del Gaudio. Tutti i diritti riservati sui contributi originali.
