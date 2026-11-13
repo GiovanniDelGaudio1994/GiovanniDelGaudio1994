@@ -36,3 +36,10 @@ L'autore dichiara che l'applicazione originale è funzionante. **Non è qui disp
 *Materiale originale di studio e presentazione conservato privatamente dall'autore.*
 
 © Giovanni Del Gaudio. Tutti i diritti riservati sui contributi originali.
+
+
+## Licenza e diritti del progetto
+
+**Progetto universitario:** demo e documentazione soggette ai diritti degli autori e delle risorse terze. Il sorgente completo rimane privato; nessuna licenza AGPLv3 generale è concessa.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
