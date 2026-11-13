@@ -92,7 +92,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="projects/legacybridge/">LegacyBridge</a></strong></p>
 <p><strong>C++ · Hardware research · PowerShell · Open Core</strong></p>
 <p>Laboratorio per vecchi PC: diagnostica non invasiva, studio delle istruzioni CPU e primo caso reale HP 550.</p>
-<p><a href="https://giovannidelgaudio.it/legacybridge-demo/">▶ Demo IT</a> · <a href="https://giovannidelgaudio.it/legacybridge-demo/en/">▶ Demo EN</a> · <a href="projects/legacybridge/README.en.md">🇬🇧 English project brief</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/">Codice AGPLv3</a></p>
+<p><a href="https://giovannidelgaudio.it/legacybridge-demo/">▶ Demo IT</a> · <a href="https://giovannidelgaudio.it/legacybridge-demo/en/">▶ Demo EN</a> · <a href="projects/legacybridge/README.en.md">🇬🇧 English project brief</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/">Sonda storica AGPLv3</a></p>
 </td>
 <td width="50%" valign="top">
 <p><strong>HP 550 — Case Study #001</strong></p>
@@ -171,6 +171,6 @@ Le tecnologie sono maturate attraverso progetti personali e studio, con livelli 
 
 ## Licenze dei progetti
 
-Ogni progetto ha condizioni proprie; l'etichetta AGPLv3 **non** si applica automaticamente a tutto il portfolio. Le parti di codice pubblico originale dei progetti **[LegacyBridge](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/)**, **[SignalScope](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)** e **[Meteo Bash 2D](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)** sono GNU AGPL-3.0-only, con licenze locali nei rispettivi percorsi.
+Ogni progetto ha condizioni proprie; l'etichetta AGPLv3 **non** si applica automaticamente a tutto il portfolio. La sola sonda storica pubblica di **[LegacyBridge](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/)**, **[SignalScope](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)** e **[Meteo Bash 2D](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)** sono GNU AGPL-3.0-only, con licenze locali nei rispettivi percorsi.
 
-**DriveGlass, FORMA AI e gli altri progetti non pubblicati sono privati o soggetti a condizioni specifiche.** La AGPLv3 permette copia, modifica e condivisione del codice alle condizioni di copyleft: non impedisce di riusare idee astratte. Leggi la [politica di licenza dettagliata](https://github.com/GiovanniDelGaudio1994/forma-ai#politica-delle-licenze-dei-progetti-pubblici).
+**DriveGlass, FORMA AI e i nuovi sviluppi di LegacyBridge sono previsti come proprietari; gli altri progetti non pubblicati sono privati o soggetti a condizioni specifiche.** La AGPLv3 permette copia, modifica e condivisione del codice alle condizioni di copyleft: non impedisce di riusare idee astratte. Leggi la [politica di licenza dettagliata](https://github.com/GiovanniDelGaudio1994/forma-ai#politica-delle-licenze-dei-progetti-pubblici).
