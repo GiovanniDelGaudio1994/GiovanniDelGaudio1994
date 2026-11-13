@@ -8,7 +8,7 @@
   </a>
 
   **Old hardware. New possibilities.**  
-  C++ · Hardware research · PowerShell · Linux · Open Core AGPLv3
+  C++ · Hardware research · PowerShell · Linux · Proprietary roadmap
 
   [▶ Demo del laboratorio](https://giovannidelgaudio.it/legacybridge-demo/) · [🔍 Piccolo modulo pubblico AGPLv3](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/)
 </div>
@@ -36,9 +36,9 @@ LegacyBridge è un laboratorio sperimentale nato per **studiare e recuperare com
 
 Il primo passo successivo è eseguire Linux Live da USB, rilevare le istruzioni CPU e creare un report anonimo. Nessuna formattazione, patch firmware o installazione Windows modificata.
 
-## Filosofia Open Core
+## Sviluppo proprietario e sonda storica
 
-Il codice che abbiamo deciso di rendere pubblico è **una piccola sonda PowerShell read-only**, non l'intero laboratorio sperimentale. È rilasciata sotto **GNU AGPL-3.0-only**, con testo integrale della licenza nel repository pubblico.
+**I nuovi sviluppi di LegacyBridge sono previsti come proprietari.** Solo una piccola sonda PowerShell read-only è stata già rilasciata sotto **GNU AGPL-3.0-only**, con il testo della licenza nel repository pubblico. Il laboratorio completo non viene distribuito.
 
 Chi la riusa può studiarla, modificarla e redistribuirla rispettando le condizioni AGPL. Il marchio LegacyBridge e la relativa identità grafica rimangono distinti dalla licenza del codice; non sono stati registrati formalmente.
 
@@ -55,6 +55,6 @@ Chi la riusa può studiarla, modificarla e redistribuirla rispettando le condizi
 
 ## Licenza e diritti del progetto
 
-**Sonda pubblica originale:** [GNU AGPL-3.0-only](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/projects/legacybridge/LICENSE). Il laboratorio sperimentale completo non è pubblicato. La AGPL consente il riuso alle condizioni della licenza.
+**Nuovi moduli indipendenti:** sviluppo proprietario previsto, senza pubblicazione del sorgente completo. **Sonda PowerShell già pubblicata:** [GNU AGPL-3.0-only](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/projects/legacybridge/LICENSE); i diritti già concessi non sono revocabili retroattivamente. Per codice futuro derivato o combinato con la sonda bisogna rispettare eventuali obblighi copyleft.
 
 Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
