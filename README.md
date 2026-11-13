@@ -8,7 +8,7 @@
 
 Sviluppo applicazioni web e mobile, sperimento l'AI e realizzo progetti software concreti.
 
-[🌐 Sito personale](https://giovannidelgaudio.it/) · [📄 CV stampabile](https://www.giovannidelgaudio.it/cv/) · [🛠️ Repository del portfolio](https://github.com/GiovanniDelGaudio1994/giovanni-portfolio) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio.it/forma-ai-demo/)
+[🌐 Sito personale](https://giovannidelgaudio.it/) · [🛠️ Repository del portfolio](https://github.com/GiovanniDelGaudio1994/giovanni-portfolio) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio.it/forma-ai-demo/)
 
 </div>
 
