@@ -7,9 +7,9 @@ Il profilo contiene **schede tecniche e materiali dimostrativi**; non è un cont
 | Progetto | Scheda GitHub | Demo pubblica | Sorgente completo |
 | --- | --- | --- | --- |
 | FORMA AI | [Scheda](forma-ai/) | [Demo](https://www.giovannidelgaudio.it/forma-ai-demo/) · [Atlante 3D](https://www.giovannidelgaudio.it/atlante-3d.html) | Privato (`forma-ai-private`) |
-| DriveGlass | [Scheda](driveglass/) | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) | Privato: `driveglass-private` creato e verificato; codice Flutter e backend Node.js |
-| Fit Zone | [Scheda](fit-zone/) | [Demo](https://www.giovannidelgaudio.it/fit-zone-demo/) | Privato: `fit-zone-private` creato e verificato; **la copia storica è ancora visibile nel ramo pubblico finché non completiamo la pulizia** |
-| GestioneFarmacia | [Scheda](gestione-farmacia/) | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) | Privato; solo due classi Java di esempio pubbliche |
+| DriveGlass | [Scheda](driveglass/) · [Caso studio](driveglass/CASE_STUDY.md) | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) | Privato: `driveglass-private` creato e verificato; codice Flutter e backend Node.js |
+| Fit Zone | [Scheda](fit-zone/) | [Demo](https://www.giovannidelgaudio.it/fit-zone-demo/) | Privato: `fit-zone-private` creato e verificato; la versione attuale del ramo pubblico contiene soltanto la scheda e gli asset, non più la cartella `source/`; la cronologia storica può restare accessibile |
+| GestioneFarmacia | [Scheda](gestione-farmacia/) · [Caso studio](gestione-farmacia/CASE_STUDY.md) | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) | Privato; solo due classi Java di esempio pubbliche |
 | e-Wine | [Scheda](e-wine/) | [Demo](https://www.giovannidelgaudio.it/ewine-demo/) | Sorgente completo non pubblicato |
 | LegacyBridge | [Scheda](legacybridge/) | [Demo](https://www.giovannidelgaudio.it/legacybridge-demo/) | Sviluppi futuri proprietari; sonda PowerShell storica AGPLv3 già pubblicata |
 
@@ -17,7 +17,7 @@ Il profilo contiene **schede tecniche e materiali dimostrativi**; non è un cont
 
 | Progetto | Sorgente pubblico | Demo |
 | --- | --- | --- |
-| SignalScope | [Python / scraper](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper) (AGPL-3.0-only) | [Web](https://www.giovannidelgaudio.it/signalscope-demo/) |
+| SignalScope | [Python / scraper](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper) (AGPL-3.0-only) · [Caso studio](scraper/CASE_STUDY.md) | [Web](https://www.giovannidelgaudio.it/signalscope-demo/) |
 | Meteo Bash 2D | [Bash](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d) (AGPL-3.0-only) | [Web](https://www.giovannidelgaudio.it/meteo-bash2d-demo/) |
 
 ## UX, studi e altri lavori
