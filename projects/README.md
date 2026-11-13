@@ -1,15 +1,15 @@
 # Indice dei progetti — Giovanni Del Gaudio
 
-Il profilo contiene **schede tecniche e materiali dimostrativi**; non è un contenitore unico di tutte le applicazioni. Per vedere i progetti in funzione, apri il [portfolio](https://www.giovannidelgaudio.it/).
+Il profilo contiene **schede tecniche e materiali dimostrativi**; non è un contenitore unico di tutte le applicazioni. I repository privati non sono accessibili ai recruiter: si valutano tramite demo e prove tecniche pubbliche. Per vedere i progetti in funzione, apri il [portfolio](https://www.giovannidelgaudio.it/).
 
-## Applicazioni con codice completo riservato
+## Applicazioni proprietarie con codice non pubblicato
 
 | Progetto | Scheda GitHub | Demo pubblica | Sorgente completo |
 | --- | --- | --- | --- |
 | FORMA AI | [Scheda](forma-ai/) | [Demo](https://www.giovannidelgaudio.it/forma-ai-demo/) · [Atlante 3D](https://www.giovannidelgaudio.it/atlante-3d.html) | Privato (`forma-ai-private`) |
 | DriveGlass | [Scheda](driveglass/) · [Caso studio](driveglass/CASE_STUDY.md) | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) | Privato: `driveglass-private` creato e verificato; codice Flutter e backend Node.js |
 | Fit Zone | [Scheda](fit-zone/) | [Demo](https://www.giovannidelgaudio.it/fit-zone-demo/) | Privato: `fit-zone-private` creato e verificato; la versione attuale del ramo pubblico contiene soltanto la scheda e gli asset, non più la cartella `source/`; la cronologia storica può restare accessibile |
-| GestioneFarmacia | [Scheda](gestione-farmacia/) · [Caso studio](gestione-farmacia/CASE_STUDY.md) | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) | Privato; solo due classi Java di esempio pubbliche |
+| GestioneFarmacia | [Scheda](gestione-farmacia/) · [Caso studio](gestione-farmacia/CASE_STUDY.md) | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) | Repository privato esistente, ma ancora senza sorgenti caricati; due classi Java di esempio pubbliche |
 | e-Wine | [Scheda](e-wine/) | [Demo](https://www.giovannidelgaudio.it/ewine-demo/) | Sorgente completo non pubblicato |
 | LegacyBridge | [Scheda](legacybridge/) | [Demo](https://www.giovannidelgaudio.it/legacybridge-demo/) | Sviluppi futuri proprietari; sonda PowerShell storica AGPLv3 già pubblicata |
 
