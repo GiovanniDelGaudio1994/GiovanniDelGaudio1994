@@ -72,3 +72,10 @@ La cartella `source/` contiene PHP, fogli CSS, JavaScript, configurazione MySQL 
 Per ora il codice è consultabile **nella repository pubblica del portfolio**, all'interno della cartella `projects/fit-zone/source/`. La repository indipendente `Fit-Zone` non è stata ancora creata. Quando sarà disponibile, la storia di sviluppo si potrà organizzare in branch tematici e pull request.
 
 © 2026 Giovanni Del Gaudio sui contributi originali. La visibilità pubblica non comporta automaticamente una licenza open source.
+
+
+## Licenza e diritti del progetto
+
+**Codice PHP pubblico:** le condizioni sui contributi originali restano riservate fino alla verifica completa dei diritti e delle risorse. Nessuna attribuzione automatica di AGPLv3 a immagini, dipendenze o contenuti di terzi.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
