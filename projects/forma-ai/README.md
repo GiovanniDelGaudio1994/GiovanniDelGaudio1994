@@ -64,3 +64,9 @@ La repository della demo è pubblicamente visibile; ciò **non** implica che la 
 ---
 
 © 2026 Giovanni Del Gaudio. Tutti i diritti riservati sui materiali originali per cui dispone dei diritti.
+
+## Licenza e diritti del progetto
+
+**App privata / demo pubblica:** codice proprietario non distribuito. Il repository pubblico della demo ha una [licenza specifica](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/LICENSE), non AGPLv3; dipendenze e asset di terzi hanno condizioni proprie.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
