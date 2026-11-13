@@ -47,8 +47,8 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
 <p><strong><a href="projects/driveglass/">DriveGlass</a></strong></p>
 <p><strong>Flutter · Garage digitale</strong></p>
-<p>Gestione auto, manutenzioni e documenti. In sviluppo.</p>
-<p><a href="projects/driveglass/">Scheda progetto</a></p>
+<p>App Flutter per il garage digitale: manutenzioni, documenti e salvataggio locale. Ora con <strong>video reale dei test</strong> sul sito; sorgenti proprietari privati.</p>
+<p><a href="https://giovannidelgaudio.it/driveglass-demo/">▶ Demo pubblica e video</a> · <a href="projects/driveglass/">Scheda progetto</a></p>
 </td>
 </tr>
 
