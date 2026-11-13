@@ -26,3 +26,10 @@ Bandi, borse di studio, concorsi e occasioni professionali sono distribuiti su m
 ## Stato
 
 L'idea e questa scheda sono pubbliche, ma il contenuto dello ZIP originale non è ancora stato ispezionato né integrato. Il software non è ancora certificato come funzionante. Il nome definitivo, la licenza e la fattibilità delle singole fonti saranno decisi dopo l'audit.
+
+
+## Licenza e diritti del progetto
+
+**Motore originale SignalScope:** [GNU AGPL-3.0-only](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/projects/scraper/LICENSE). L'archivio storico di un altro scraper non è incluso in questa concessione.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
