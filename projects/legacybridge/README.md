@@ -51,3 +51,10 @@ Chi la riusa può studiarla, modificarla e redistribuirla rispettando le condizi
 
 **Stato:** laboratorio in sviluppo, esperimento hardware avviato.  
 **Autore:** Giovanni Del Gaudio · 2026.
+
+
+## Licenza e diritti del progetto
+
+**Sonda pubblica originale:** [GNU AGPL-3.0-only](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/projects/legacybridge/LICENSE). Il laboratorio sperimentale completo non è pubblicato. La AGPL consente il riuso alle condizioni della licenza.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
