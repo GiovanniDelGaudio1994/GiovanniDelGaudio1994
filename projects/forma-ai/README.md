@@ -10,6 +10,16 @@ FORMA AI è una piattaforma fitness *local-first* in evoluzione. La demo pubblic
 
 ## 📱 Anteprima del progetto — Neon Edition
 
+### Exercise Atlas · schermata ufficiale del concept
+
+[![Exercise Atlas FORMA AI — layout viola/neon con pannello Dumbbell Bench Press](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/exercise-atlas-preview-2026.webp)](https://giovannidelgaudio.it/forma-ai-demo/#atlas)
+
+**[▶ Vedi questa schermata nella demo](https://giovannidelgaudio.it/forma-ai-demo/#atlas)** · **[🧬 Atlante muscolare 3D interattivo](https://giovannidelgaudio.it/atlante-3d.html)**
+
+*Screenshot del concept Exercise Atlas: il catalogo è ancora in bozza e le illustrazioni non costituiscono istruzioni validate per un allenamento personalizzato.*
+
+### Altri elementi della Neon Edition
+
 [![FORMA AI Neon Edition: presentazione del nuovo concept viola e blu](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg)](https://giovannidelgaudio.it/forma-ai-demo/)
 
 ### 🧬 Exercise Atlas & Muscle Atlas 3D
