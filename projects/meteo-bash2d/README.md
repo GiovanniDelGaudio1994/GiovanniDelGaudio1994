@@ -1,5 +1,8 @@
 # Meteo Bash2D
 
+> **Versione pubblicata:** [Meteo Bash 2D — script Bash](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d), [README tecnico e licenza AGPLv3](https://github.com/GiovanniDelGaudio1994/forma-ai/blob/main/projects/meteo-bash2d/README.md) e [demo web live](https://www.giovannidelgaudio.it/meteo-bash2d-demo/). La descrizione storica seguente documenta il materiale di partenza, non lo stato dell'implementazione pubblicata.
+
+
 **Progetto personale · Pubblicazione del codice in preparazione**
 
 Progetto denominato `meateo_Bash2D` nell'archivio originale fornito dall'autore. Questa pagina serve come scheda pubblica temporanea: non dichiara caratteristiche o risultati non ancora verificati.
