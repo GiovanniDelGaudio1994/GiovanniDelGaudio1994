@@ -7,8 +7,8 @@ Il profilo contiene **schede tecniche e materiali dimostrativi**; non è un cont
 | Progetto | Scheda GitHub | Demo pubblica | Sorgente completo |
 | --- | --- | --- | --- |
 | FORMA AI | [Scheda](forma-ai/) | [Demo](https://www.giovannidelgaudio.it/forma-ai-demo/) · [Atlante 3D](https://www.giovannidelgaudio.it/atlante-3d.html) | Privato (`forma-ai-private`) |
-| DriveGlass | [Scheda](driveglass/) | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) | Riservato; repository `driveglass-private` da creare dal Mac |
-| Fit Zone | [Scheda](fit-zone/) | [Demo](https://www.giovannidelgaudio.it/fit-zone-demo/) | Trasferimento della versione PHP storica previsto in `fit-zone-private`; **la versione presente nel ramo pubblico resta visibile fino alla migrazione** |
+| DriveGlass | [Scheda](driveglass/) | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) | Privato: `driveglass-private` creato e verificato; codice Flutter e backend Node.js |
+| Fit Zone | [Scheda](fit-zone/) | [Demo](https://www.giovannidelgaudio.it/fit-zone-demo/) | Privato: `fit-zone-private` creato e verificato; **la copia storica è ancora visibile nel ramo pubblico finché non completiamo la pulizia** |
 | GestioneFarmacia | [Scheda](gestione-farmacia/) | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) | Privato; solo due classi Java di esempio pubbliche |
 | e-Wine | [Scheda](e-wine/) | [Demo](https://www.giovannidelgaudio.it/ewine-demo/) | Sorgente completo non pubblicato |
 | LegacyBridge | [Scheda](legacybridge/) | [Demo](https://www.giovannidelgaudio.it/legacybridge-demo/) | Sviluppi futuri proprietari; sonda PowerShell storica AGPLv3 già pubblicata |
@@ -35,8 +35,8 @@ giovanni-portfolio/                     # pubblico: sito e demo statiche
 forma-ai/                               # pubblico storico: FORMA AI demo + tool AGPL
 forma-ai-private/                       # privato: codice dell'app FORMA AI
 GestioneFarmacia/                       # privato: repository del gestionale
-driveglass-private/                     # da creare PRIVATO con codice dal Mac
-fit-zone-private/                       # da creare PRIVATO con codice PHP storico
+driveglass-private/                     # PRIVATO: Flutter + Node.js
+fit-zone-private/                       # PRIVATO: codice PHP storico
 ```
 
 **Regola:** le demo pubbliche servono ai recruiter per valutare UX e funzionalità dimostrabili; non contengono i backend proprietari, le credenziali o i database reali. Una demo web, il suo JavaScript e i media collegati sono comunque scaricabili. La rimozione di file precedentemente pubblici dal ramo attuale **non ne elimina la cronologia Git**, né eventuali copie esterne.
