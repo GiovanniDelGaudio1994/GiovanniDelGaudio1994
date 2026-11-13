@@ -1,5 +1,8 @@
 # Scraper — concept di evoluzione: Open Opportunity Radar
 
+> **Versione funzionante e codice pubblico:** [SignalScope — sorgente Python](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper), [test](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/tests) e [caso studio tecnico](CASE_STUDY.md). La roadmap di seguito è una proposta ulteriore e non descrive funzioni già disponibili.
+
+
 **Progetto personale · Ricerca e progettazione · Sorgenti da verificare**
 
 Evoluzione proposta per l'archivio originale `Scraper.zip`: un osservatorio di opportunità verificabili per studenti, sviluppatori e persone in cerca di formazione, basato prioritariamente su fonti pubbliche e API ufficiali.
