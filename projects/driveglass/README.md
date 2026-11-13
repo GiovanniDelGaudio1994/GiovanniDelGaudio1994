@@ -10,7 +10,7 @@ DriveGlass è un'applicazione per la gestione locale dei veicoli: Garage digital
 
 [![Fotogramma di una registrazione reale di DriveGlass Flutter durante un test locale](https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/driveglass-demo/assets/driveglass-real-demo-poster.webp)](https://giovannidelgaudio.it/driveglass-demo/#verifiche)
 
-**[Guarda la demo pubblica e il video dell'app](https://giovannidelgaudio.it/driveglass-demo/)** · **[Apri la sezione verifiche](https://giovannidelgaudio.it/driveglass-demo/#verifiche)**
+**[Guarda la demo pubblica e il video dell'app](https://giovannidelgaudio.it/driveglass-demo/)** · **[Passaporto digitale PDF: anteprima dei dati esportati](https://giovannidelgaudio.it/driveglass-demo/#pdf-proof)** · **[Apri la sezione verifiche](https://giovannidelgaudio.it/driveglass-demo/#verifiche)**
 
 Il filmato è un estratto ottimizzato di una registrazione reale dell'**8 novembre 2026**: mostra l'app Flutter funzionante sul Mac durante test di navigazione e manutenzione. È una prova dell'interfaccia locale, **non** di collegamenti OBD, telemetria live o controlli remoti.
 
@@ -35,3 +35,10 @@ La demo web è una **presentazione interattiva** separata dall'app proprietaria.
 - **Backend:** componenti Node.js in sviluppo; non sono esposti nella demo.
 
 © 2026 Giovanni Del Gaudio. Tutti i diritti riservati sui contributi originali.
+
+
+## Licenza e diritti del progetto
+
+**App Flutter privata:** tutti i diritti riservati sul codice originale non distribuito. Il video e il PDF mostrati nella demo sono materiali dimostrativi e non rendono l'app AGPLv3.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
