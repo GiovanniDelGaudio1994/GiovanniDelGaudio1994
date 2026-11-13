@@ -127,3 +127,10 @@ Al termine della presentazione sono disponibili due approfondimenti ricavati **d
 
 **Documenti originali di riferimento:** `Assignment1,2,3.docx`, `Assignment1,2,3.pdf` e `Presentazione ium.pptx`. Le pagine collegate sono rielaborazioni consultabili direttamente su GitHub; i file binari originali non sono ancora caricati nella repository pubblica.
 
+
+
+## Licenza e diritti del progetto
+
+**Progetto universitario di gruppo:** i contributi del gruppo e le componenti di provenienza non verificata non sono rilicenziati come AGPLv3; applicano i diritti dei rispettivi autori.
+
+Le licenze open source non proibiscono la copia delle idee; verifica sempre il testo della licenza del singolo componente.
