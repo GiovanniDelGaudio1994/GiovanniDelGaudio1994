@@ -60,7 +60,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><strong><a href="projects/fit-zone/">Fit Zone</a></strong></p>
 <p><strong>PHP · MySQL</strong></p>
 <p>Gestionale palestra: corsi, abbonamenti e prenotazioni.</p>
-<p><a href="https://giovannidelgaudio.it/fit-zone-demo/">▶ Demo pubblica</a> · <a href="projects/fit-zone/source/">Codice PHP</a></p>
+<p><a href="https://giovannidelgaudio.it/fit-zone-demo/">▶ Demo pubblica</a> · <a href="projects/fit-zone/">Scheda tecnica</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/signalscope-cover.svg" alt="Copertina SignalScope" width="100%"></a>
