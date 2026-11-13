@@ -47,7 +47,7 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
 <p><strong><a href="projects/driveglass/">DriveGlass</a></strong></p>
 <p><strong>Flutter · Garage digitale</strong></p>
-<p>App Flutter per il garage digitale: manutenzioni, documenti e salvataggio locale. Ora con <strong>video reale dei test</strong> sul sito; sorgenti proprietari privati.</p>
+<p>App Flutter per il garage digitale: manutenzioni, documenti e salvataggio locale. Demo con <strong>video dei test in Full HD (dopo pubblicazione del filmato)</strong> e anteprima del Passaporto digitale PDF; sorgenti applicativi privati.</p>
 <p><a href="https://giovannidelgaudio.it/driveglass-demo/">▶ Demo pubblica e video</a> · <a href="projects/driveglass/">Scheda progetto</a></p>
 </td>
 </tr>
@@ -167,3 +167,10 @@ Le tecnologie sono maturate attraverso progetti personali e studio, con livelli 
 <sub>© 2026 Giovanni Del Gaudio · Progetti originali e contributi di terze parti attribuiti nelle rispettive schede.</sub>
 
 </div>
+
+
+## Licenze dei progetti
+
+Ogni progetto ha condizioni proprie; l'etichetta AGPLv3 **non** si applica automaticamente a tutto il portfolio. Le parti di codice pubblico originale dei progetti **[LegacyBridge](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/)**, **[SignalScope](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)** e **[Meteo Bash 2D](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)** sono GNU AGPL-3.0-only, con licenze locali nei rispettivi percorsi.
+
+**DriveGlass, FORMA AI e gli altri progetti non pubblicati sono privati o soggetti a condizioni specifiche.** La AGPLv3 permette copia, modifica e condivisione del codice alle condizioni di copyleft: non impedisce di riusare idee astratte. Leggi la [politica di licenza dettagliata](https://github.com/GiovanniDelGaudio1994/forma-ai#politica-delle-licenze-dei-progetti-pubblici).
