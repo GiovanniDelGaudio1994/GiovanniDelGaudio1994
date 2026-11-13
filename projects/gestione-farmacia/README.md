@@ -6,9 +6,11 @@
 
 Gestionale desktop sviluppato per l'esame di **Basi di Dati**. Il lavoro comprende analisi dei requisiti, modello Entity–Relationship, analisi delle operazioni e dei volumi, traduzione nello schema relazionale, normalizzazione e implementazione di un'interfaccia Java Swing collegata a MySQL.
 
+[Leggi il caso studio tecnico: modello dati e architettura](CASE_STUDY.md)
+
 ## 🖥️ Demo interattiva ispirata alle schermate originali
 
-[**▶ APRI LA DEMO VISUALE DI GESTIONEFARMACIA**](https://giovannidelgaudio1994.github.io/forma-ai/gestione-farmacia-demo/)
+[**▶ APRI LA DEMO VISUALE DI GESTIONEFARMACIA**](https://www.giovannidelgaudio.it/gestione-farmacia-demo/)
 
 La nuova demo riproduce l'organizzazione del vero gestionale desktop documentato nelle schermate: **login “Login Database”**, barra blu con titolo *Sistema di Gestione Farmaceutica*, menu laterale dei moduli, **farmaci da banco e prescritti**, **gestione pazienti**, **operatori e vendita**, **ricette**, **clienti**, **medici**, **ASL** e **report**.
 
