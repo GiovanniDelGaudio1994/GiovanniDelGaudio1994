@@ -12,6 +12,7 @@ Il profilo contiene **schede tecniche e materiali dimostrativi**; non è un cont
 | GestioneFarmacia | [Scheda](gestione-farmacia/) · [Caso studio](gestione-farmacia/CASE_STUDY.md) | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) | Repository privato esistente, ma ancora senza sorgenti caricati; due classi Java di esempio pubbliche |
 | e-Wine | [Scheda](e-wine/) | [Demo](https://www.giovannidelgaudio.it/ewine-demo/) | Sorgente completo non pubblicato |
 | LegacyBridge | [Scheda](legacybridge/) | [Demo](https://www.giovannidelgaudio.it/legacybridge-demo/) | Sviluppi futuri proprietari; sonda PowerShell storica AGPLv3 già pubblicata |
+| Headset Studio | [Scheda](headset-studio/) | [Liquid Glass](https://www.giovannidelgaudio.it/headset-studio-demo/) · [Concept precedente](https://www.giovannidelgaudio.it/headset-studio-demo/legacy.html) | Prototipo Flutter macOS locale; codice non pubblicato |
 
 ## Software e strumenti pubblici
 
