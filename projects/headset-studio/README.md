@@ -28,3 +28,9 @@ Un'app desktop per gestire e monitorare cuffie Bluetooth. Prima periferica utili
 - [Versione precedente illustrativa](https://www.giovannidelgaudio.it/headset-studio-demo/legacy.html)
 
 > Questa è una scheda dimostrativa pubblica. Non contiene codice proprietario, dati personali o un'app Bluetooth funzionante nel browser.
+
+## Note di versione — UI Liquid Glass (16 novembre 2026)
+- Anteprima grafica responsive bianco/azzurro/lilla dedicata alla dashboard delle cuffie.
+- Pagina precedente conservata come **ricostruzione illustrativa**: non sostituisce il mockup storico originale non reperito nel contesto Work disponibile.
+- Batteria al 90%, firmware 0.0.0 e protocolli nel concept sono valori illustrativi.
+- Lo screenshot Liquid Glass originale è disponibile come allegato del lavoro ma l'asset binario non è incluso in questa commit tramite il connettore GitHub; la demo sul sito ne riprende il linguaggio grafico con CSS/SVG.
