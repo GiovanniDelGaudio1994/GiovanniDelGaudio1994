@@ -42,6 +42,16 @@ I'm a Computer Science student and aspiring software developer building practica
 
 ---
 
+### 🎧 Headset Studio — nuovo progetto desktop
+
+**Flutter · Dart · macOS · Bluetooth · UI Liquid Glass**
+
+App desktop per cuffie Bluetooth: test del collegamento e del controllo volume Mac con Marshall Major III. Presentazione grafica in due fasi: [concept precedente (ricostruzione)](https://www.giovannidelgaudio.it/headset-studio-demo/legacy.html) e [nuovo Liquid Glass](https://www.giovannidelgaudio.it/headset-studio-demo/). La demo web è illustrativa; non legge dati Bluetooth reali.
+
+📁 [Scheda Headset Studio](projects/headset-studio/) · [Anteprima design](https://www.giovannidelgaudio.it/headset-studio-demo/)
+
+---
+
 ## 🚀 Progetti personali
 
 📁 **[Indice completo dei progetti: demo pubbliche, sorgenti riservati e licenze](projects/README.md)**
