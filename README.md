@@ -42,16 +42,6 @@ I'm a Computer Science student and aspiring software developer building practica
 
 ---
 
-### 🎧 Headset Studio — nuovo progetto desktop
-
-**Flutter · Dart · macOS · Bluetooth · UI Liquid Glass**
-
-App desktop per cuffie Bluetooth: test del collegamento e del controllo volume Mac con Marshall Major III. Presentazione grafica in due fasi: [concept precedente (ricostruzione)](https://www.giovannidelgaudio.it/headset-studio-demo/legacy.html) e [nuovo Liquid Glass](https://www.giovannidelgaudio.it/headset-studio-demo/). La demo web è illustrativa; non legge dati Bluetooth reali.
-
-📁 [Scheda Headset Studio](projects/headset-studio/) · [Anteprima design](https://www.giovannidelgaudio.it/headset-studio-demo/)
-
----
-
 ## 🚀 Progetti personali
 
 📁 **[Indice completo dei progetti: demo pubbliche, sorgenti riservati e licenze](projects/README.md)**
@@ -59,6 +49,15 @@ App desktop per cuffie Bluetooth: test del collegamento e del controllo volume M
 Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il progetto o scegli la demo per provarlo.
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+<a href="projects/headset-studio/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/giovanni-portfolio/main/portfolio/assets/projects/headset-studio-liquid-glass.webp" alt="Copertina Headset Studio: mockup originale Liquid Glass con cuffie e dashboard Bluetooth" width="85%"></a>
+<p><strong><a href="projects/headset-studio/">🎧 Headset Studio — Bluetooth Companion</a></strong></p>
+<p><strong>Flutter · Dart · macOS · Bluetooth · Liquid Glass</strong></p>
+<p>App desktop testata su macOS: collegamento delle cuffie Marshall Major III e controllo del volume. Guarda due <strong>video reali della versione precedente</strong> e il <strong>mockup originale del futuro restyling Liquid Glass</strong>. Il codice completo resta privato; il mockup non certifica letture della batteria o funzioni firmware.</p>
+<p><a href="https://www.giovannidelgaudio.it/headset-studio-demo/">▶ Mockup + video demo</a> · <a href="https://www.giovannidelgaudio.it/headset-studio-demo/legacy.html">Concept precedente</a> · <a href="projects/headset-studio/">Scheda tecnica</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="projects/forma-ai/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" alt="Copertina FORMA AI" width="100%"></a>
