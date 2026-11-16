@@ -77,7 +77,7 @@ Progetti con obiettivi più circoscritti. Le **demo** mostrano l’interfaccia o
   <p><a href="https://www.giovannidelgaudio.it/fit-zone-demo/">▶ Demo</a> &nbsp;·&nbsp; <a href="projects/fit-zone/">Scheda</a></p>
 </td>
 <td width="50%" valign="top">
-  <h3><a href="projects/scraper/">SignalScope</a></h3>
+  <h3><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/">SignalScope</a></h3>
   <p><sub>PYTHON · SQLITE · MONITORAGGIO WEB</sub></p>
   <p>Osserva fonti pubbliche, conserva snapshot e rende leggibili le modifiche. Motore CLI pubblico, con demo illustrativa.</p>
   <p><a href="https://www.giovannidelgaudio.it/signalscope-demo/">▶ Demo</a> &nbsp;·&nbsp; <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice AGPLv3</a></p>
