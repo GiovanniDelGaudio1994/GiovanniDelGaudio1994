@@ -1,170 +1,191 @@
 <div align="center">
 
-<img src="assets/tech-orbit.gif" width="650" alt="Animazione delle tecnologie utilizzate nello sviluppo software" />
+<img src="assets/tech-orbit.gif" width="780" alt="Animazione con tecnologie software attorno a un laptop" />
 
-<h1>Giovanni Del Gaudio</h1>
+# Ciao, sono Giovanni 👋
 
-<p><strong>Junior Software Developer</strong> &nbsp;·&nbsp; Studente di Informatica — Università degli Studi di Salerno</p>
+**Junior Software Developer · Studente di Informatica (studi in corso)**
 
-<p>Sviluppo applicazioni desktop, mobile e web. Mi interessa costruire progetti concreti, con interfacce curate, codice mantenibile e risultati dimostrabili.</p>
+Sviluppo applicazioni web e mobile, sperimento l'AI e realizzo progetti software concreti.
 
-<p>
-<a href="https://www.giovannidelgaudio.it/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
-<a href="https://www.giovannidelgaudio.it/cv/">Curriculum</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/GiovanniDelGaudio1994/giovanni-portfolio">Sorgenti del sito</a>
-</p>
-
-<sub><a href="https://www.giovannidelgaudio.it/en/">English portfolio</a> &nbsp;·&nbsp; <a href="projects/README.md">Indice di tutti i progetti</a></sub>
+[🌐 Sito personale](https://giovannidelgaudio.it/) · [🛠️ Repository del portfolio](https://github.com/GiovanniDelGaudio1994/giovanni-portfolio) · [💼 LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/) · [▶ FORMA AI Live](https://giovannidelgaudio.it/forma-ai-demo/)
 
 </div>
 
 ---
 
-## Progetti in evidenza
+## 👨‍💻 Chi sono
 
-Quattro progetti personali che rappresentano i principali ambiti su cui sto lavorando. Ogni scheda distingue chiaramente **funzionalità testate**, **demo** e **sviluppi futuri**.
+Studio **Informatica presso l'Università degli Studi di Salerno** e sono vicino alla laurea. Mi interessano lo sviluppo di applicazioni, la progettazione software, i database e i prodotti con un'esperienza utente curata.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/giovanni-portfolio/main/portfolio/assets/projects/driveglass-interface-2026.webp" width="100%" alt="DriveGlass — dashboard del garage digitale con gestione del veicolo" /></a>
-  <h3><a href="projects/driveglass/">DriveGlass</a></h3>
-  <p><sub>FLUTTER · DART · SQLITE · DESKTOP</sub></p>
-  <p><strong>Garage digitale e manutenzione veicoli.</strong> Gestione locale di auto, interventi e documenti, con esportazione del passaporto digitale PDF.</p>
-  <p><strong>Evidenza:</strong> registrazione reale dell’app macOS. Cloud e telemetria sono ancora in sviluppo; codice applicativo privato.</p>
-  <p><a href="https://www.giovannidelgaudio.it/driveglass-demo/">▶ Video e demo</a> &nbsp;·&nbsp; <a href="projects/driveglass/CASE_STUDY.md">Caso studio</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="projects/forma-ai/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/giovanni-portfolio/main/portfolio/assets/projects/forma-ai-interface-2026.webp" width="100%" alt="FORMA AI — concept di interfaccia fitness e allenamenti" /></a>
-  <h3><a href="projects/forma-ai/">FORMA AI</a></h3>
-  <p><sub>FITNESS · PWA · JAVASCRIPT · 3D</sub></p>
-  <p><strong>Fitness intelligence e monitoraggio allenamenti.</strong> Demo Neon Edition navigabile con Exercise Atlas e modelli anatomici illustrativi.</p>
-  <p><strong>Evidenza:</strong> prototipo web visitabile. Coaching AI avanzato e analisi video sono funzioni future; codice applicativo privato.</p>
-  <p><a href="https://www.giovannidelgaudio.it/forma-ai-demo/">▶ Demo</a> &nbsp;·&nbsp; <a href="https://www.giovannidelgaudio.it/atlante-3d.html">Atlante 3D</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="projects/headset-studio/"><img src="assets/cards/headset-studio-card.webp" width="100%" alt="Headset Studio — copertina del concept Liquid Glass con dashboard Bluetooth" /></a>
-  <h3><a href="projects/headset-studio/">Headset Studio</a></h3>
-  <p><sub>FLUTTER · DART · MACOS · BLUETOOTH</sub></p>
-  <p><strong>Companion desktop per cuffie Bluetooth.</strong> Testato su Mac con Marshall Major III, con rilevamento dispositivo e controllo del volume.</p>
-  <p><strong>Evidenza:</strong> due video dell’app reale. Il mockup Liquid Glass è il <em>prossimo restyling</em>, non una funzione già implementata.</p>
-  <p><a href="https://www.giovannidelgaudio.it/headset-studio-demo/">▶ Video + mockup</a> &nbsp;·&nbsp; <a href="projects/headset-studio/RESTYLING_PLAN.md">Roadmap</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="projects/legacybridge/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/giovanni-portfolio/main/portfolio/assets/projects/legacybridge-cover.svg" width="100%" alt="LegacyBridge — studio della compatibilità di PC legacy con hardware moderno" /></a>
-  <h3><a href="projects/legacybridge/">LegacyBridge</a></h3>
-  <p><sub>C++ · POWERSHELL · LINUX · HARDWARE</sub></p>
-  <p><strong>Ricerca sulla compatibilità dei computer legacy.</strong> Primo caso documentato: HP 550 con Core 2 Duo, diagnostica non invasiva e analisi delle capacità CPU.</p>
-  <p><strong>Evidenza:</strong> caso studio e sonda PowerShell storica AGPLv3. I nuovi moduli restano in sviluppo proprietario.</p>
-  <p><a href="https://www.giovannidelgaudio.it/legacybridge-demo/">▶ Laboratorio</a> &nbsp;·&nbsp; <a href="projects/legacybridge/README.en.md">English brief</a></p>
-</td>
-</tr>
-</table>
+**Tecnologie:** Flutter · Dart · Python · Java · PHP · JavaScript · Node.js · SQL · HTML/CSS · Git.
 
-## Web, strumenti e sperimentazione
-
-Progetti con obiettivi più circoscritti. Le **demo** mostrano l’interfaccia o il comportamento pubblico; i collegamenti al **codice** sono indicati soltanto quando i sorgenti sono disponibili.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="projects/fit-zone/">Fit Zone</a></h3>
-  <p><sub>PHP · MYSQL · GESTIONALE WEB</sub></p>
-  <p>Gestione di corsi, prenotazioni e abbonamenti per una palestra. Demo pubblica con dati di esempio; backend riservato.</p>
-  <p><a href="https://www.giovannidelgaudio.it/fit-zone-demo/">▶ Demo</a> &nbsp;·&nbsp; <a href="projects/fit-zone/">Scheda</a></p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/">SignalScope</a></h3>
-  <p><sub>PYTHON · SQLITE · MONITORAGGIO WEB</sub></p>
-  <p>Osserva fonti pubbliche, conserva snapshot e rende leggibili le modifiche. Motore CLI pubblico, con demo illustrativa.</p>
-  <p><a href="https://www.giovannidelgaudio.it/signalscope-demo/">▶ Demo</a> &nbsp;·&nbsp; <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice AGPLv3</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Meteo Bash 2D</a></h3>
-  <p><sub>BASH · TERMINALE · OPEN-METEO</sub></p>
-  <p>Previsioni meteo e dati reali presentati con un’interfaccia ispirata al terminale. Script Bash pubblico.</p>
-  <p><a href="https://www.giovannidelgaudio.it/meteo-bash2d-demo/">▶ Demo</a> &nbsp;·&nbsp; <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Codice AGPLv3</a></p>
-</td>
-<td width="50%" valign="top">
-  <h3><a href="projects/cilento-platform/">Cilento Platform</a></h3>
-  <p><sub>WEB · TURISMO · PROGETTAZIONE</sub></p>
-  <p>Idea di piattaforma digitale per la valorizzazione del territorio e dei servizi turistici del Cilento.</p>
-  <p><a href="projects/cilento-platform/">Scheda e obiettivi</a> &nbsp;·&nbsp; <em>In sviluppo</em></p>
-</td>
-</tr>
-</table>
-
-## Progetti universitari
-
-Lavori sviluppati durante il percorso di Informatica presso l’Università degli Studi di Salerno: progettazione, dati e interazione uomo–macchina.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-  <h3><a href="projects/gestione-farmacia/">GestioneFarmacia</a></h3>
-  <p><sub>JAVA SWING · MYSQL · JDBC</sub></p>
-  <p>Gestionale con inventario, farmaci e clienti. Schema relazionale e caso studio.</p>
-  <p><a href="https://www.giovannidelgaudio.it/gestione-farmacia-demo/">▶ Demo</a><br/><a href="projects/gestione-farmacia/CASE_STUDY.md">Caso studio</a></p>
-</td>
-<td width="33%" valign="top">
-  <h3><a href="projects/e-wine/">e-Wine</a></h3>
-  <p><sub>JAVA · JSP · SERVLET · MYSQL</sub></p>
-  <p>Progetto universitario e-commerce web; demo navigabile e sorgenti completi riservati.</p>
-  <p><a href="https://www.giovannidelgaudio.it/ewine-demo/">▶ Demo</a><br/><a href="projects/e-wine/">Scheda tecnica</a></p>
-</td>
-<td width="33%" valign="top">
-  <h3><a href="projects/rememberme/">RememberMe / iRem</a></h3>
-  <p><sub>UX · PROTOTIPAZIONE · IUM</sub></p>
-  <p>Studio dell’interazione e prototipo navigabile per la gestione dei promemoria.</p>
-  <p><a href="projects/rememberme/assets/irem-prototipo-animato.svg">▶ Prototipo</a><br/><a href="projects/rememberme/">Scheda progetto</a></p>
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>Altri progetti e approfondimenti</strong></summary>
-
-- [Gestionale B&amp;B](projects/gestionale-bnb/) — scheda progettuale in preparazione.
-- [LegacyBridge / HP 550](projects/legacybridge/) — architettura x64 confermata, Windows 10 x86 osservato e prove Linux Live pianificate.
-- [Indice completo dei progetti](projects/README.md) — distingue repository pubblici, applicazioni private e demo.
-
-</details>
+**Obiettivo:** crescere come Junior Software Developer attraverso progetti documentati, dimostrabili e migliorati nel tempo.
 
 ---
 
-## Competenze e metodo
+## 🌍 For international visitors
 
-| Ambito | Tecnologie e strumenti |
-| :--- | :--- |
-| **Desktop e mobile** | Flutter, Dart, Java |
-| **Web e interfacce** | HTML, CSS, JavaScript, PHP |
-| **Backend e dati** | Python, Node.js, SQL, MySQL, SQLite |
-| **Sviluppo software** | Git, API REST, debug, test, UML, documentazione |
+I'm a Computer Science student and aspiring software developer building practical projects in **Flutter, Dart, Java, Python, PHP, Node.js and systems programming**. Explore my [English portfolio](https://giovannidelgaudio.it/en/), or browse [LegacyBridge in English](projects/legacybridge/README.en.md), my experimental project dedicated to responsibly researching legacy hardware compatibility.
 
-Mi interessa mostrare non soltanto il risultato grafico, ma anche **come un progetto viene analizzato, implementato e verificato**. Le competenze indicate derivano da studi e progetti con livelli di esperienza differenti.
+---
 
-<details>
-<summary>Visualizza l’animazione dello stack tecnologico</summary>
-<p align="center"><img src="assets/tech-stack-loop.gif" width="600" alt="Animazione dei linguaggi e degli strumenti utilizzati" /></p>
-</details>
+## 🔎 Da dove iniziare — 3 progetti da valutare
 
-## Informazioni su demo, codice e licenze
+| Progetto | Competenze visibili | Evidenza |
+| --- | --- | --- |
+| **DriveGlass** | Flutter, Dart, SQLite, esportazione PDF | [Demo e video](https://www.giovannidelgaudio.it/driveglass-demo/) · [Caso studio](projects/driveglass/CASE_STUDY.md) |
+| **SignalScope** | Python, analisi delle modifiche, test automatici | [Codice](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper) · [Caso studio](projects/scraper/CASE_STUDY.md) |
+| **GestioneFarmacia** | Java Swing, MySQL, modello relazionale | [Demo](https://www.giovannidelgaudio.it/gestione-farmacia-demo/) · [Caso studio](projects/gestione-farmacia/CASE_STUDY.md) |
 
-Le demo pubbliche possono essere prototipi, registrazioni video o interfacce statiche e **non implicano che backend privati o funzioni future siano disponibili nel browser**.
+**Trasparenza:** le demo statiche non eseguono i backend privati. I casi studio distinguono funzionalità dimostrate, limiti e sviluppo futuro.
 
-I sorgenti di **DriveGlass**, **FORMA AI** e degli altri moduli proprietari restano privati. **SignalScope**, **Meteo Bash 2D** e la sonda storica di **LegacyBridge** sono pubblicati con licenza GNU AGPL-3.0-only; la licenza non si applica automaticamente a tutto il portfolio. Dettagli nell’[indice dei progetti](projects/README.md) e nella [politica di licenza](https://github.com/GiovanniDelGaudio1994/forma-ai#politica-delle-licenze-dei-progetti-pubblici).
+---
+
+## 🚀 Progetti personali
+
+📁 **[Indice completo dei progetti: demo pubbliche, sorgenti riservati e licenze](projects/README.md)**
+
+Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il progetto o scegli la demo per provarlo.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="projects/forma-ai/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/forma-ai-cover.svg" alt="Copertina FORMA AI" width="100%"></a>
+<p><strong><a href="projects/forma-ai/">FORMA AI</a></strong></p>
+<p><strong>Fitness · PWA JavaScript/Node.js · Atlante 3D · AI in sviluppo</strong></p>
+<p>Prototipo fitness local-first con demo PWA, Exercise Atlas e modello 3D illustrativo. Coaching AI avanzato ancora in sviluppo.</p>
+<p><a href="https://giovannidelgaudio.it/forma-ai-demo/">▶ Demo pubblica</a> · <a href="projects/forma-ai/">Scheda progetto</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="projects/driveglass/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/driveglass-interface-2026.webp" alt="Copertina DriveGlass" width="100%"></a>
+<p><strong><a href="projects/driveglass/">DriveGlass</a></strong></p>
+<p><strong>Flutter · Garage digitale</strong></p>
+<p>App Flutter per il garage digitale: manutenzioni, documenti e salvataggio locale. Demo con <strong>video dei test in Full HD</strong> e anteprima del Passaporto digitale PDF; sorgenti applicativi privati.</p>
+<p><a href="https://giovannidelgaudio.it/driveglass-demo/">▶ Demo pubblica e video</a> · <a href="projects/driveglass/">Scheda progetto</a> · <a href="projects/driveglass/CASE_STUDY.md">Caso studio tecnico</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="projects/fit-zone/"><img src="projects/fit-zone/assets/copertina-fit-zone-originale-2026.webp" alt="Copertina Fit Zone" width="100%"></a>
+<p><strong><a href="projects/fit-zone/">Fit Zone</a></strong></p>
+<p><strong>PHP · MySQL</strong></p>
+<p>Gestionale palestra: corsi, abbonamenti e prenotazioni.</p>
+<p><a href="https://giovannidelgaudio.it/fit-zone-demo/">▶ Demo pubblica</a> · <a href="projects/fit-zone/">Scheda tecnica</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/signalscope-cover.svg" alt="Copertina SignalScope" width="100%"></a>
+<p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/">SignalScope / Scraper</a></strong></p>
+<p><strong>Python · SQLite</strong></p>
+<p>Rileva e documenta modifiche a pagine pubbliche. Motore CLI e demo interattiva.</p>
+<p><a href="https://giovannidelgaudio.it/signalscope-demo/">▶ Demo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/source/">Codice</a> · <a href="projects/scraper/CASE_STUDY.md">Caso studio tecnico</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/assets/meteo-bash2d-cover.svg" alt="Copertina Meteo Bash 2D" width="100%"></a>
+<p><strong><a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Meteo Bash 2D</a></strong></p>
+<p><strong>Bash · Open-Meteo</strong></p>
+<p>Meteo e previsioni in stile terminale, con demo web.</p>
+<p><a href="https://giovannidelgaudio.it/meteo-bash2d-demo/">▶ Live meteo</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/">Codice</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="projects/cilento-platform/"><img src="projects/cilento-platform/assets/portfolio-cover.svg" alt="Copertina Cilento Platform" width="100%"></a>
+<p><strong><a href="projects/cilento-platform/">Cilento Platform</a></strong></p>
+<p><strong>Web · Turismo</strong></p>
+<p>Progetto per valorizzare il territorio, in sviluppo.</p>
+<p><a href="projects/cilento-platform/">Scheda progetto</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="projects/legacybridge/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/legacybridge-cover.svg" alt="Copertina LegacyBridge — Hardware Compatibility Lab" width="100%"></a>
+<p><strong><a href="projects/legacybridge/">LegacyBridge</a></strong></p>
+<p><strong>C++ · Hardware research · PowerShell · Open Core</strong></p>
+<p>Laboratorio per vecchi PC: diagnostica non invasiva, studio delle istruzioni CPU e primo caso reale HP 550 (Core 2 Duo T5670).</p>
+<p><a href="https://giovannidelgaudio.it/legacybridge-demo/">▶ Demo IT</a> · <a href="https://giovannidelgaudio.it/legacybridge-demo/en/">▶ Demo EN</a> · <a href="projects/legacybridge/README.en.md">🇬🇧 English project brief</a> · <a href="https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/">Sonda storica AGPLv3</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="projects/headset-studio/"><img src="assets/cards/headset-studio-card.webp" alt="Copertina Headset Studio: concept azzurro Liquid Glass per gestione cuffie Bluetooth su macOS" width="100%"></a>
+<p><strong><a href="projects/headset-studio/">Headset Studio</a></strong></p>
+<p><strong>Flutter · Dart · macOS · Bluetooth</strong></p>
+<p>Companion per cuffie Bluetooth: rilevamento della periferica e controllo volume Mac già testati. Due video reali mostrano l'app; il mockup Liquid Glass rappresenta il prossimo restyling.</p>
+<p><a href="https://www.giovannidelgaudio.it/headset-studio-demo/">▶ Mockup e video reali</a> · <a href="projects/headset-studio/">Scheda tecnica</a> · <a href="projects/headset-studio/RESTYLING_PLAN.md">Roadmap UI</a></p>
+</td>
+</tr>
+</table>
+
+**Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) — scheda in preparazione.
+
+---
+
+## 🎓 Progetti universitari
+
+Progetti del percorso di Informatica presso **UNISA**, con copertine e materiali dimostrativi. I sorgenti completi di e-Wine restano privati.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="projects/gestione-farmacia/"><img src="projects/gestione-farmacia/assets/portfolio-cover-2026.webp" alt="Copertina GestioneFarmacia" width="100%"></a>
+<p><strong><a href="projects/gestione-farmacia/">GestioneFarmacia</a></strong></p>
+<p><strong>Basi di Dati · Java / MySQL</strong></p>
+<p>Gestionale farmacia con inventario, clienti e farmaci.</p>
+<p><a href="https://giovannidelgaudio.it/gestione-farmacia-demo/">▶ Demo</a> · <a href="projects/gestione-farmacia/">Scheda</a> · <a href="projects/gestione-farmacia/CASE_STUDY.md">Caso studio tecnico</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="projects/rememberme/"><img src="projects/rememberme/assets/portfolio-cover.svg" alt="Copertina RememberMe" width="100%"></a>
+<p><strong><a href="projects/rememberme/">RememberMe · iRem</a></strong></p>
+<p><strong>Interazione Uomo–Macchina · UX</strong></p>
+<p>Prototipo e documentazione di un'app di promemoria.</p>
+<p><a href="projects/rememberme/assets/irem-prototipo-animato.svg">▶ Prototipo</a> · <a href="projects/rememberme/">Scheda</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2" align="center">
+<a href="projects/e-wine/"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/forma-ai/main/portfolio/assets/projects/ewine-cover.jpg" alt="e-Wine, copertina fotografica tratta dal progetto originale" width="560"></a>
+<p><strong><a href="projects/e-wine/">e-Wine</a></strong></p>
+<p><strong>Tecnologie per il Software Web · Ingegneria del Software</strong></p>
+<p>E-commerce universitario Java/JSP, Servlet, Bootstrap 4 e MySQL. Demo pubblica navigabile; codice applicativo completo riservato.</p>
+<p><a href="https://giovannidelgaudio.it/ewine-demo/">▶ Demo navigabile</a> · <a href="projects/e-wine/">Scheda progetto</a></p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Competenze e approccio
+
+<div align="center">
+<img src="assets/tech-stack-loop.gif" width="760" alt="Tecnologie utilizzate in progetti e formazione" />
+</div>
+
+| Area | Strumenti ed esperienza |
+|:--|:--|
+| **Web** | HTML, CSS, JavaScript, PHP |
+| **App** | Flutter, Dart |
+| **Backend e dati** | Python, Java, Node.js, MySQL, SQLite |
+| **Metodologia** | Git, REST API, debug, test, documentazione |
+
+Le tecnologie sono maturate attraverso progetti personali e studio, con livelli di esperienza differenti.
+
+---
 
 <div align="center">
 
----
+### Hai un progetto o vuoi collaborare?
 
-**Vuoi vedere i progetti in azione?** &nbsp; [Portfolio completo](https://www.giovannidelgaudio.it/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/)
+[**Visita il portfolio completo**](https://giovannidelgaudio.it/) · [**LinkedIn**](https://www.linkedin.com/in/giovanni-del-gaudio-9b6780153/)
 
-<sub>© 2026 Giovanni Del Gaudio · Materiali originali e componenti di terze parti attribuiti nei rispettivi progetti.</sub>
+<sub>© 2026 Giovanni Del Gaudio · Progetti originali e contributi di terze parti attribuiti nelle rispettive schede.</sub>
 
 </div>
+
+
+## Licenze dei progetti
+
+Ogni progetto ha condizioni proprie; l'etichetta AGPLv3 **non** si applica automaticamente a tutto il portfolio. La sola sonda storica pubblica di **[LegacyBridge](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/legacybridge/)**, **[SignalScope](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/scraper/)** e **[Meteo Bash 2D](https://github.com/GiovanniDelGaudio1994/forma-ai/tree/main/projects/meteo-bash2d/)** sono GNU AGPL-3.0-only, con licenze locali nei rispettivi percorsi.
+
+**DriveGlass, FORMA AI e i nuovi sviluppi di LegacyBridge sono previsti come proprietari; gli altri progetti non pubblicati sono privati o soggetti a condizioni specifiche.** La AGPLv3 permette copia, modifica e condivisione del codice alle condizioni di copyleft: non impedisce di riusare idee astratte. Leggi la [politica di licenza dettagliata](https://github.com/GiovanniDelGaudio1994/forma-ai#politica-delle-licenze-dei-progetti-pubblici).
