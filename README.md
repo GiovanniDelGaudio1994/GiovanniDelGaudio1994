@@ -112,8 +112,8 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <a href="projects/headset-studio/"><img src="assets/cards/headset-studio-card.webp" alt="Copertina Headset Studio: concept azzurro Liquid Glass per gestione cuffie Bluetooth su macOS" width="100%"></a>
 <p><strong><a href="https://github.com/GiovanniDelGaudio1994/headset-studio">Headset Studio</a></strong></p>
 <p><strong>Flutter · Dart · macOS · Bluetooth</strong></p>
-<p>Companion per cuffie Bluetooth: rilevamento della periferica e controllo volume Mac già testati. Due video reali mostrano l'app; il mockup Liquid Glass rappresenta il prossimo restyling.</p>
-<p><a href="https://github.com/GiovanniDelGaudio1994/headset-studio">📘 Repository e README</a> · <a href="https://www.giovannidelgaudio.it/headset-studio-demo/">▶ Mockup e video reali</a> · <a href="projects/headset-studio/RESTYLING_PLAN.md">Roadmap UI</a></p>
+<p>Companion per cuffie Bluetooth su macOS: rilevamento Major III e volume di sistema già testati. Pubblicati i servizi Dart originali della v0.2.1; il mockup Liquid Glass illustra il restyling futuro.</p>
+<p><a href="https://github.com/GiovanniDelGaudio1994/headset-studio">📘 Repository e README</a> · <a href="https://www.giovannidelgaudio.it/headset-studio-demo/">▶ Mockup e video reali</a> · <a href="https://github.com/GiovanniDelGaudio1994/headset-studio/tree/main/source/v0.2.1">💻 Sorgenti v0.2.1</a></p>
 </td>
 </tr>
 </table>
