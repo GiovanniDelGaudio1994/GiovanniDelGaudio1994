@@ -6,6 +6,8 @@
 
 Gestionale desktop sviluppato per l'esame di **Basi di Dati**. Il lavoro comprende analisi dei requisiti, modello Entity–Relationship, analisi delle operazioni e dei volumi, traduzione nello schema relazionale, normalizzazione e implementazione di un'interfaccia Java Swing collegata a MySQL.
 
+[**Leggi la documentazione di Basi di Dati (PDF)**](documentazione/Gestione_Farmacia_Documentazione_Pubblica.pdf)
+
 [Leggi il caso studio tecnico: modello dati e architettura](CASE_STUDY.md)
 
 ## 🖥️ Demo interattiva ispirata alle schermate originali
