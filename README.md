@@ -116,6 +116,16 @@ Applicazioni e prototipi indipendenti. **Clicca la copertina** per aprire il pro
 <p><a href="https://github.com/GiovanniDelGaudio1994/headset-studio">📘 Repository e README</a> · <a href="https://www.giovannidelgaudio.it/headset-studio-demo/">▶ Mockup e video reali</a> · <a href="https://github.com/GiovanniDelGaudio1994/headset-studio/tree/main/source/v0.2.1">💻 Sorgenti v0.2.1</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/GiovanniDelGaudio1994/ActionsRingLiquidGlass"><img src="https://raw.githubusercontent.com/GiovanniDelGaudio1994/ActionsRingLiquidGlass/main/assets/copertina-glassring.svg" alt="GlassRing Studio — menu radiale in stile Liquid Glass" width="100%"></a>
+<p><strong><a href="https://github.com/GiovanniDelGaudio1994/ActionsRingLiquidGlass">GlassRing Studio</a></strong></p>
+<p><strong>Flutter · Dart · macOS · Input desktop · Open source AGPLv3</strong></p>
+<p>Launcher radiale con otto azioni e scorciatoia globale: prototipo Preview con codice e commenti in italiano. Rilevamento HID, gesture e supporto Windows/Linux ancora in sviluppo.</p>
+<p><a href="https://github.com/GiovanniDelGaudio1994/ActionsRingLiquidGlass">💻 Codice pubblico</a> · <a href="https://github.com/GiovanniDelGaudio1994/ActionsRingLiquidGlass/blob/main/docs/ARCHITETTURA.md">📘 Architettura</a> · <a href="https://github.com/GiovanniDelGaudio1994/ActionsRingLiquidGlass/blob/main/docs/COLLOQUIO_TECNICO.md">🎓 Studio del codice</a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 **Altro progetto:** [Gestionale B&B](projects/gestionale-bnb/) — scheda in preparazione.
